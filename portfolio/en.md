@@ -64,21 +64,14 @@ flowchart LR
     V --> N
 ```
 
-#### *Kate Brooks' Adventure*, cross-platform hidden object game
+#### *Kate Brooks' Adventure* (PC), hidden object game
 
 <img src="../assets/whitebirds/kate-brooks.webp" alt="The Secret Legacy: A Kate Brooks Adventure" width="130" align="right" />
 
-- PC hidden object game in three chapters, also released on Wii, iPad and iPhone
+- PC hidden object game in three chapters
 - Set up the team and the pipeline
 
 Credited *Lead Programmer* · [MobyGames page](https://www.mobygames.com/game/253218/the-secret-legacy-a-kate-brooks-adventure/)
-
-```mermaid
-flowchart LR
-    PC["<b>PC</b><br/>3 chapters"] --> Wii
-    PC --> iPad
-    PC --> iPhone
-```
 
 #### Nintendo DS
 
@@ -134,7 +127,7 @@ Credited *Programming* · [MobyGames page](https://www.mobygames.com/game/22233/
 ### Takeaways
 - **Close work with game designers**, especially on adventure games
 - **Strong hardware constraints**: 256 KB of memory on the DS, Nintendo certification (Wii TRC)
-- **Multiplatform production**: the same game shipped on PC, Wii, iPad and iPhone
+- **Multiplatform production**: adapting a game from one platform to another (*Paradise* → *Last King of Africa* on iPhone / iPad, *Nikopol* → *Nikopol DS*)
 - **First lead roles**: building teams, pipelines with external studios, project management through to delivery
 
 ### Summary by platform
@@ -142,8 +135,8 @@ Credited *Programming* · [MobyGames page](https://www.mobygames.com/game/22233/
 |---|---|---|
 | PC | *Paradise*, *Martine 1 & 2*, *Sinking Island*, *Nikopol*, *Kate Brooks' Adventure* | In-house engine, Lua, C++ / MFC, HLSL |
 | Nintendo DS | *Let's Play Fashion Designer*, *Tower Defense*, *Nikopol DS*, *Crime Scene*, puzzle prototype | C, C++ |
-| Nintendo Wii | *Aztec Treasure Hunt*, *Kate Brooks' Adventure* | Wii TRC |
-| iPhone / iPad | *Cardboard Castle*, *Last King of Africa*, *Kate Brooks' Adventure* | Xcode, Lua |
+| Nintendo Wii | *Aztec Treasure Hunt* | Wii TRC |
+| iPhone / iPad | *Cardboard Castle*, *Last King of Africa* | Xcode, Lua |
 | PS3, Xbox 360, PC | *PlayAll* engine (contribution) | C++ |
 
 ## References

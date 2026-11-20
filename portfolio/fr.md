@@ -64,21 +64,14 @@ flowchart LR
     V --> N
 ```
 
-#### *Kate Brooks' Adventure*, jeu d'objets cachés cross-platform
+#### *Kate Brooks' Adventure* (PC), jeu d'objets cachés
 
 <img src="../assets/whitebirds/kate-brooks.webp" alt="The Secret Legacy: A Kate Brooks Adventure" width="130" align="right" />
 
-- Jeu PC d'objets cachés en trois chapitres, décliné sur Wii, iPad et iPhone
+- Jeu PC d'objets cachés en trois chapitres
 - Mise en place de l'équipe et du pipeline
 
 Crédité *Lead Programmer* · [fiche MobyGames](https://www.mobygames.com/game/253218/the-secret-legacy-a-kate-brooks-adventure/)
-
-```mermaid
-flowchart LR
-    PC["<b>PC</b><br/>3 chapitres"] --> Wii
-    PC --> iPad
-    PC --> iPhone
-```
 
 #### Nintendo DS
 
@@ -134,7 +127,7 @@ Crédité *Programming* · [fiche MobyGames](https://www.mobygames.com/game/2223
 ### Ce que j'en retiens
 - **Travail étroit avec les game designers**, énormément sur les jeux d'aventure
 - **Contraintes matérielles fortes** : 256 Ko de mémoire sur DS, certification Nintendo (TRC Wii)
-- **Production multiplateforme** : un même jeu décliné sur PC, Wii, iPad et iPhone
+- **Production multiplateforme** : adaptations d'un jeu d'une plateforme à l'autre (*Paradise* → *Last King of Africa* sur iPhone / iPad, *Nikopol* → *Nikopol DS*)
 - **Premiers rôles de lead** : constitution d'équipes, pipelines avec des studios externes, gestion de projet jusqu'à la livraison
 
 ### Récapitulatif par plateforme
@@ -142,8 +135,8 @@ Crédité *Programming* · [fiche MobyGames](https://www.mobygames.com/game/2223
 |---|---|---|
 | PC | *Paradise*, *Martine 1 & 2*, *Sinking Island*, *Nikopol*, *Kate Brooks' Adventure* | Moteur maison, Lua, C++ / MFC, HLSL |
 | Nintendo DS | *Let's Play Fashion Designer*, *Tower Defense*, *Nikopol DS*, *Crime Scene*, prototype d'énigmes | C, C++ |
-| Nintendo Wii | *Aztec Treasure Hunt*, *Kate Brooks' Adventure* | TRC Wii |
-| iPhone / iPad | *Cardboard Castle*, *Last King of Africa*, *Kate Brooks' Adventure* | Xcode, Lua |
+| Nintendo Wii | *Aztec Treasure Hunt* | TRC Wii |
+| iPhone / iPad | *Cardboard Castle*, *Last King of Africa* | Xcode, Lua |
 | PS3, Xbox 360, PC | Moteur *PlayAll* (participation) | C++ |
 
 ## Références
