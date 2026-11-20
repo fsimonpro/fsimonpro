@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 913 76" width="913" height="76" role="img" aria-label="VR rendering pipeline on Oculus Rift">
+<style>
+  .box { fill: #f6f8fa; stroke: #d0d7de; stroke-width: 1.5; }
+  .hub { fill: #ddf4ff; stroke: #0969da; stroke-width: 2; }
+  .now { stroke: #0969da; stroke-width: 2; }
+  .date { fill: #0969da; font: 700 15px -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
+  .name { fill: #1f2328; font: 700 14px -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
+  .info { fill: #59636e; font: 400 12.5px -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
+  .lbl { fill: #59636e; font: italic 400 12px -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
+  .lblbg { fill: #ffffff; }
+  .link { stroke: #8c959f; stroke-width: 2; fill: none; }
+  .head { fill: #8c959f; }
+  @media (prefers-color-scheme: dark) {
+    .box { fill: #161b22; stroke: #30363d; }
+    .hub { fill: #0c2d6b; stroke: #4493f8; }
+    .now { stroke: #4493f8; }
+    .date { fill: #4493f8; }
+    .name { fill: #e6edf3; }
+    .info, .lbl { fill: #9198a1; }
+    .lblbg { fill: #0d1117; }
+    .link { stroke: #6e7681; }
+    .head { fill: #6e7681; }
+  }
+</style>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="1" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path class="head" d="M0,0 L10,5 L0,10 z" /></marker></defs>
+  <path class="link" d="M184.1,38 C202.1,38 202.1,38 220.1,38" marker-end="url(#arrow)" />
+  <path class="link" d="M348.1,38 C366.1,38 366.1,38 384.1,38" marker-end="url(#arrow)" />
+  <path class="link" d="M552.1,38 C570.1,38 570.1,38 588.1,38" marker-end="url(#arrow)" />
+  <path class="link" d="M742.6,38 C760.6,38 760.6,38 778.6,38" marker-end="url(#arrow)" />
+  <rect class="box" x="6" y="6" width="178.1" height="64" rx="10" />
+  <text text-anchor="middle"><tspan class="name" x="95.05" y="33">Orientation sensors</tspan><tspan class="info" x="95.05" y="51">(head tracking)</tspan></text>
+  <rect class="box" x="228.1" y="6" width="120" height="64" rx="10" />
+  <text text-anchor="middle"><tspan class="name" x="288.1" y="42">Game camera</tspan></text>
+  <rect class="box" x="392.1" y="6" width="160" height="64" rx="10" />
+  <text text-anchor="middle"><tspan class="name" x="472.1" y="33">Stereo rendering</tspan><tspan class="info" x="472.1" y="51">left eye / right eye</tspan></text>
+  <rect class="box" x="596.1" y="6" width="146.5" height="64" rx="10" />
+  <text text-anchor="middle"><tspan class="name" x="669.35" y="33">Lens distortion</tspan><tspan class="info" x="669.35" y="51">shader</tspan></text>
+  <rect class="hub" x="786.6" y="6" width="120" height="64" rx="24" />
+  <text text-anchor="middle"><tspan class="name" x="846.6" y="33">Oculus Rift</tspan><tspan class="info" x="846.6" y="51">headset</tspan></text>
+</svg>

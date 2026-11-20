@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1099 94" width="1099" height="94" role="img" aria-label="Education timeline 2000-2005">
+<style>
+  .box { fill: #f6f8fa; stroke: #d0d7de; stroke-width: 1.5; }
+  .hub { fill: #ddf4ff; stroke: #0969da; stroke-width: 2; }
+  .now { stroke: #0969da; stroke-width: 2; }
+  .date { fill: #0969da; font: 700 15px -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
+  .name { fill: #1f2328; font: 700 14px -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
+  .info { fill: #59636e; font: 400 12.5px -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
+  .lbl { fill: #59636e; font: italic 400 12px -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
+  .lblbg { fill: #ffffff; }
+  .link { stroke: #8c959f; stroke-width: 2; fill: none; }
+  .head { fill: #8c959f; }
+  @media (prefers-color-scheme: dark) {
+    .box { fill: #161b22; stroke: #30363d; }
+    .hub { fill: #0c2d6b; stroke: #4493f8; }
+    .now { stroke: #4493f8; }
+    .date { fill: #4493f8; }
+    .name { fill: #e6edf3; }
+    .info, .lbl { fill: #9198a1; }
+    .lblbg { fill: #0d1117; }
+    .link { stroke: #6e7681; }
+    .head { fill: #6e7681; }
+  }
+</style>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="1" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path class="head" d="M0,0 L10,5 L0,10 z" /></marker></defs>
+  <path class="link" d="M136.7,47 C154.7,47 154.7,47 172.7,47" marker-end="url(#arrow)" />
+  <path class="link" d="M303.5,47 C321.5,47 321.5,47 339.5,47" marker-end="url(#arrow)" />
+  <path class="link" d="M481.1,47 C499.1,47 499.1,47 517.1,47" marker-end="url(#arrow)" />
+  <path class="link" d="M687.4000000000001,47 C705.4000000000001,47 705.4000000000001,47 723.4000000000001,47" marker-end="url(#arrow)" />
+  <path class="link" d="M893.7,47 C911.7,47 911.7,47 929.7,47" marker-end="url(#arrow)" />
+  <rect class="box" x="6" y="6" width="130.7" height="82" rx="10" />
+  <text text-anchor="middle"><tspan class="date" x="71.35" y="33">2000</tspan><tspan class="name" x="71.35" y="51">Baccalaureate</tspan><tspan class="info" x="71.35" y="69">science, honors</tspan></text>
+  <rect class="box" x="180.7" y="6" width="122.80000000000001" height="82" rx="10" />
+  <text text-anchor="middle"><tspan class="date" x="242.1" y="33">2000 – 2002</tspan><tspan class="name" x="242.1" y="51">Prep classes</tspan><tspan class="info" x="242.1" y="69">MPSI, MP*</tspan></text>
+  <rect class="box" x="347.5" y="6" width="133.6" height="82" rx="10" />
+  <text text-anchor="middle"><tspan class="date" x="414.3" y="33">2002 – 2004</tspan><tspan class="name" x="414.3" y="51">ENSIMAG</tspan><tspan class="info" x="414.3" y="69">1st and 2nd year</tspan></text>
+  <rect class="box" x="525.1" y="6" width="162.3" height="82" rx="10" />
+  <text text-anchor="middle"><tspan class="date" x="606.25" y="33">Summer 2004</tspan><tspan class="name" x="606.25" y="51">INSERM internship</tspan><tspan class="info" x="606.25" y="69">neural networks</tspan></text>
+  <rect class="box" x="731.4000000000001" y="6" width="162.3" height="82" rx="10" />
+  <text text-anchor="middle"><tspan class="date" x="812.5500000000001" y="33">2004 – 2005</tspan><tspan class="name" x="812.5500000000001" y="51">Univ. of Waterloo</tspan><tspan class="info" x="812.5500000000001" y="69">3rd year</tspan></text>
+  <rect class="box" x="937.7" y="6" width="154.4" height="82" rx="10" />
+  <text text-anchor="middle"><tspan class="date" x="1014.9000000000001" y="33">2005</tspan><tspan class="name" x="1014.9000000000001" y="51">Final internship</tspan><tspan class="info" x="1014.9000000000001" y="69">White Birds</tspan></text>
+</svg>

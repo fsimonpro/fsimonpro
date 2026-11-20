@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 727 94" width="727" height="94" role="img" aria-label="White Birds timeline 2005-2010">
+<style>
+  .box { fill: #f6f8fa; stroke: #d0d7de; stroke-width: 1.5; }
+  .hub { fill: #ddf4ff; stroke: #0969da; stroke-width: 2; }
+  .now { stroke: #0969da; stroke-width: 2; }
+  .date { fill: #0969da; font: 700 15px -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
+  .name { fill: #1f2328; font: 700 14px -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
+  .info { fill: #59636e; font: 400 12.5px -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
+  .lbl { fill: #59636e; font: italic 400 12px -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
+  .lblbg { fill: #ffffff; }
+  .link { stroke: #8c959f; stroke-width: 2; fill: none; }
+  .head { fill: #8c959f; }
+  @media (prefers-color-scheme: dark) {
+    .box { fill: #161b22; stroke: #30363d; }
+    .hub { fill: #0c2d6b; stroke: #4493f8; }
+    .now { stroke: #4493f8; }
+    .date { fill: #4493f8; }
+    .name { fill: #e6edf3; }
+    .info, .lbl { fill: #9198a1; }
+    .lblbg { fill: #0d1117; }
+    .link { stroke: #6e7681; }
+    .head { fill: #6e7681; }
+  }
+</style>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="1" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path class="head" d="M0,0 L10,5 L0,10 z" /></marker></defs>
+  <path class="link" d="M199.9,47 C217.9,47 217.9,47 235.9,47" marker-end="url(#arrow)" />
+  <path class="link" d="M463.29999999999995,47 C481.29999999999995,47 481.29999999999995,47 499.29999999999995,47" marker-end="url(#arrow)" />
+  <rect class="box" x="6" y="6" width="193.9" height="82" rx="10" />
+  <text text-anchor="middle"><tspan class="date" x="102.95" y="33">2005</tspan><tspan class="name" x="102.95" y="51">Final-year internship</tspan><tspan class="info" x="102.95" y="69">Lua gameplay on Paradise</tspan></text>
+  <rect class="box" x="243.9" y="6" width="219.39999999999998" height="82" rx="10" />
+  <text text-anchor="middle"><tspan class="date" x="353.6" y="33">2005 – 2007</tspan><tspan class="name" x="353.6" y="51">Junior developer</tspan><tspan class="info" x="353.6" y="69">point &amp; click, tools, PlayAll</tspan></text>
+  <rect class="box now" x="507.29999999999995" y="6" width="212.79999999999998" height="82" rx="10" />
+  <text text-anchor="middle"><tspan class="date" x="613.6999999999999" y="33">2007 – 2010</tspan><tspan class="name" x="613.6999999999999" y="51">Lead Dev</tspan><tspan class="info" x="613.6999999999999" y="69">PC, Nintendo DS, Wii, iPhone</tspan></text>
+</svg>

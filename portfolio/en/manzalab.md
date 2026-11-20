@@ -2,7 +2,7 @@
 
 [← Portfolio home](../en.md) · [Version française](../fr/manzalab.md)
 
-<img src="../../assets/manzalab/teemew-logo.png" alt="Teemew" height="40" />
+<img src="../../assets/manzalab/teemew-logo.svg" alt="Teemew" height="60" />
 
 **Lead Dev, June 2019 – May 2026.** Led the fullstack team (5 developers) of **Teemew**, a 100% web platform for virtual events, art exhibitions and real-time audio conversations in a 3D world. I owned the architecture, "from the database to the 3D view in the browser".
 
@@ -40,17 +40,7 @@
 
 ### Architecture
 
-```mermaid
-flowchart LR
-    U["<b>Browser</b><br/>Unity WebGPU (3D)<br/>+ React web apps shown inside the 3D"] --> CF["<b>Cloudflare</b><br/>front door"]
-    CF --> API["<b>ASP.NET Core API</b><br/>Azure Container Apps"]
-    API -- "async stack<br/>REST + Redis events" --> R[("Redis")]
-    API -- "real-time stack<br/>SignalR WebSocket" --> U
-    U -- "real-time voice" --> AG["Agora"]
-    API --> DB[("MySQL")]
-    API --> BL[("Azure Blob Storage<br/>media")]
-    API --> AI["AI bots<br/>RAG (OpenAI API)"]
-```
+<img src="../../assets/diagrams/teemew-architecture-en.svg" alt="Teemew architecture" />
 
 ### .NET back end (6 years in production)
 - **ASP.NET Core API** (.NET 8 then .NET 10), **Entity Framework Core** (migrations), **LINQ**, **MySQL** (Azure Database for MySQL)
@@ -74,15 +64,7 @@ flowchart LR
 - **Team sharing**: knowledge, skills and agents as `.md` files versioned in the repository, enriched as development goes on
 - MCP servers used: mcp-unity, Playwright
 
-```mermaid
-flowchart TB
-    FS["<b>Fullstack agent</b><br/>defines the contracts"] --> FR["Front agent"]
-    FS --> BK["Back agent"]
-    FS --> FD["Front door agent<br/>(Cloudflare)"]
-    FR --> RV["Code review<br/>and test agents"]
-    BK --> RV
-    FD --> RV
-```
+<img src="../../assets/diagrams/claude-agents-en.svg" alt="Contract-first multi-agent setup" />
 
 ### Cloud & DevOps
 - **Docker** container deployment on **Azure Container Apps** (Azure Container Registry), **Cloudflare** as front door

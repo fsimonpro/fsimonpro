@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1122 76" width="1122" height="76" role="img" aria-label="Checkers AI">
+<style>
+  .box { fill: #f6f8fa; stroke: #d0d7de; stroke-width: 1.5; }
+  .hub { fill: #ddf4ff; stroke: #0969da; stroke-width: 2; }
+  .now { stroke: #0969da; stroke-width: 2; }
+  .date { fill: #0969da; font: 700 15px -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
+  .name { fill: #1f2328; font: 700 14px -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
+  .info { fill: #59636e; font: 400 12.5px -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
+  .lbl { fill: #59636e; font: italic 400 12px -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
+  .lblbg { fill: #ffffff; }
+  .link { stroke: #8c959f; stroke-width: 2; fill: none; }
+  .head { fill: #8c959f; }
+  @media (prefers-color-scheme: dark) {
+    .box { fill: #161b22; stroke: #30363d; }
+    .hub { fill: #0c2d6b; stroke: #4493f8; }
+    .now { stroke: #4493f8; }
+    .date { fill: #4493f8; }
+    .name { fill: #e6edf3; }
+    .info, .lbl { fill: #9198a1; }
+    .lblbg { fill: #0d1117; }
+    .link { stroke: #6e7681; }
+    .head { fill: #6e7681; }
+  }
+</style>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="1" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path class="head" d="M0,0 L10,5 L0,10 z" /></marker></defs>
+  <path class="link" d="M192.39999999999998,38 C210.39999999999998,38 210.39999999999998,38 228.39999999999998,38" marker-end="url(#arrow)" />
+  <path class="link" d="M356.4,38 C374.4,38 374.4,38 392.4,38" marker-end="url(#arrow)" />
+  <path class="link" d="M520.4,38 C538.4,38 538.4,38 556.4,38" marker-end="url(#arrow)" />
+  <path class="link" d="M695.0999999999999,38 C713.0999999999999,38 713.0999999999999,38 731.0999999999999,38" marker-end="url(#arrow)" />
+  <path class="link" d="M917.1999999999999,38 C935.1999999999999,38 935.1999999999999,38 953.1999999999999,38" marker-end="url(#arrow)" />
+  <rect class="box" x="6" y="6" width="186.39999999999998" height="64" rx="10" />
+  <text text-anchor="middle"><tspan class="name" x="99.19999999999999" y="33">Move generator</tspan><tspan class="info" x="99.19999999999999" y="51">multiple captures, kings</tspan></text>
+  <rect class="box" x="236.39999999999998" y="6" width="120" height="64" rx="10" />
+  <text text-anchor="middle"><tspan class="name" x="296.4" y="42">Minimax</tspan></text>
+  <rect class="box" x="400.4" y="6" width="120" height="64" rx="10" />
+  <text text-anchor="middle"><tspan class="name" x="460.4" y="42">Alpha-beta</tspan></text>
+  <rect class="box" x="564.4" y="6" width="130.7" height="64" rx="10" />
+  <text text-anchor="middle"><tspan class="name" x="629.75" y="33">Transposition</tspan><tspan class="info" x="629.75" y="51">table</tspan></text>
+  <rect class="box" x="739.0999999999999" y="6" width="178.1" height="64" rx="10" />
+  <text text-anchor="middle"><tspan class="name" x="828.1499999999999" y="33">Iterative deepening</tspan><tspan class="info" x="828.1499999999999" y="51">move ordering</tspan></text>
+  <rect class="hub" x="961.1999999999999" y="6" width="154.4" height="64" rx="24" />
+  <text text-anchor="middle"><tspan class="name" x="1038.3999999999999" y="33">Parallel minimax</tspan><tspan class="info" x="1038.3999999999999" y="51">processes (fork)</tspan></text>
+</svg>

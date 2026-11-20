@@ -16,7 +16,7 @@ C# / .NET · ASP.NET Core · Azure · Docker · Cloudflare · Redis · MySQL · 
 
 ### Career
 
-<img src="assets/career-timeline.svg" alt="Career timeline: ENSIMAG (2002–2005), White Birds (2005–2010), Mando (2010–2016), Your Data Consulting (2016–2019), Manzalab (2019–2026)" width="100%" />
+<img src="assets/diagrams/career-en.svg" alt="Career timeline: ENSIMAG (2002–2005), White Birds (2005–2010), Mando (2010–2016), Your Data Consulting (2016–2019), Manzalab (2019–2026)" width="100%" />
 
 | Period | Role | In short | Details |
 |---|---|---|---|

@@ -21,15 +21,7 @@
 
 ### *Livejourney*: architecture
 
-```mermaid
-flowchart LR
-    D[("Client data")] --> B["<b>Python back end</b>"]
-    B --> A["Analysis of existing data<br/>time series<br/>(e.g. RER D punctuality)"]
-    B --> P["Prediction<br/>deep neural networks<br/>(TensorFlow)"]
-    A --> F["<b>Unity front end</b><br/>data visualization"]
-    P --> F
-    F --> T["Dashboards<br/>customized per client"]
-```
+<img src="../../assets/diagrams/livejourney-en.svg" alt="Livejourney architecture" />
 
 ### What I did
 - **Technical lead** of the solution and management of a team of 3 developers

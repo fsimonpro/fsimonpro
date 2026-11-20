@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 908 210" width="908" height="210" role="img" aria-label="Livejourney architecture">
+<style>
+  .box { fill: #f6f8fa; stroke: #d0d7de; stroke-width: 1.5; }
+  .hub { fill: #ddf4ff; stroke: #0969da; stroke-width: 2; }
+  .now { stroke: #0969da; stroke-width: 2; }
+  .date { fill: #0969da; font: 700 15px -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
+  .name { fill: #1f2328; font: 700 14px -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
+  .info { fill: #59636e; font: 400 12.5px -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
+  .lbl { fill: #59636e; font: italic 400 12px -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
+  .lblbg { fill: #ffffff; }
+  .link { stroke: #8c959f; stroke-width: 2; fill: none; }
+  .head { fill: #8c959f; }
+  @media (prefers-color-scheme: dark) {
+    .box { fill: #161b22; stroke: #30363d; }
+    .hub { fill: #0c2d6b; stroke: #4493f8; }
+    .now { stroke: #4493f8; }
+    .date { fill: #4493f8; }
+    .name { fill: #e6edf3; }
+    .info, .lbl { fill: #9198a1; }
+    .lblbg { fill: #0d1117; }
+    .link { stroke: #6e7681; }
+    .head { fill: #6e7681; }
+  }
+</style>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="1" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path class="head" d="M0,0 L10,5 L0,10 z" /></marker></defs>
+  <path class="link" d="M126,105 C144,105 144,105 162,105" marker-end="url(#arrow)" />
+  <path class="link" d="M316.5,105 C334.5,105 334.5,51 352.5,51" marker-end="url(#arrow)" />
+  <path class="link" d="M316.5,105 C334.5,105 334.5,159 352.5,159" marker-end="url(#arrow)" />
+  <path class="link" d="M546.5,51 C564.5,51 564.5,105 582.5,105" marker-end="url(#arrow)" />
+  <path class="link" d="M546.5,159 C564.5,159 564.5,105 582.5,105" marker-end="url(#arrow)" />
+  <path class="link" d="M737.3,105 C755.3,105 755.3,105 773.3,105" marker-end="url(#arrow)" />
+  <path class="box" d="M6,67 a60,7 0 0,1 120,0 v76 a60,7 0 0,1 -120,0 z" />
+  <path class="box" d="M6,67 a60,7 0 0,0 120,0" />
+  <text text-anchor="middle"><tspan class="name" x="66" y="104">Client</tspan><tspan class="info" x="66" y="122">data</tspan></text>
+  <rect class="box" x="170" y="60" width="146.5" height="90" rx="10" />
+  <text text-anchor="middle"><tspan class="name" x="243.25" y="109">Python back end</tspan></text>
+  <rect class="box" x="360.5" y="6" width="186" height="90" rx="10" />
+  <text text-anchor="middle"><tspan class="name" x="453.5" y="37">Analysis of existing</tspan><tspan class="info" x="453.5" y="55">data, time series</tspan><tspan class="info" x="453.5" y="73">e.g. RER D punctuality</tspan></text>
+  <rect class="box" x="360.5" y="114" width="186" height="90" rx="10" />
+  <text text-anchor="middle"><tspan class="name" x="453.5" y="145">Prediction</tspan><tspan class="info" x="453.5" y="163">deep neural networks</tspan><tspan class="info" x="453.5" y="181">(TensorFlow)</tspan></text>
+  <rect class="box" x="590.5" y="60" width="146.8" height="90" rx="10" />
+  <text text-anchor="middle"><tspan class="name" x="663.9" y="100">Unity front end</tspan><tspan class="info" x="663.9" y="118">data visualization</tspan></text>
+  <rect class="hub" x="781.3" y="60" width="120" height="90" rx="24" />
+  <text text-anchor="middle"><tspan class="name" x="841.3" y="91">Dashboards</tspan><tspan class="info" x="841.3" y="109">customized</tspan><tspan class="info" x="841.3" y="127">per client</tspan></text>
+</svg>

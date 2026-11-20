@@ -33,13 +33,7 @@
 - Ported to **PC, Mac and iOS**
 - Credited *Programming* · [MobyGames page](https://www.mobygames.com/game/57700/babel-rising-3d/)
 
-```mermaid
-flowchart LR
-    S(("<b>Babel Rising 3D</b><br/>ShiVa engine")) --> PS3["PS3<br/>Sony TRC, PS Move"]
-    S --> X["Xbox 360<br/>Kinect"]
-    S --> O["Oculus Rift<br/>DK1 then DK2"]
-    S --> P["PC, Mac, iOS"]
-```
+<img src="../../assets/diagrams/babel-platforms-en.svg" alt="Babel Rising 3D platforms" />
 
 #### Oculus Rift port (DK1 then DK2)
 The game was part of the first 10 games on the Oculus store. The original SDK was very low level, so almost everything was done by hand.
@@ -48,13 +42,7 @@ The game was part of the first 10 games on the Oculus store. The original SDK wa
 - **Head tracking**: reading the orientation sensors and applying them to the camera
 - Worked on **latency** and **frame rate** to limit motion sickness
 
-```mermaid
-flowchart LR
-    C["Orientation sensors<br/>(head tracking)"] --> CAM["Game camera"]
-    CAM --> ST["Stereo rendering<br/>left eye / right eye"]
-    ST --> D["Lens distortion<br/>shader"]
-    D --> R["Oculus Rift headset"]
-```
+<img src="../../assets/diagrams/oculus-pipeline-en.svg" alt="VR rendering pipeline on Oculus Rift" />
 
 ### Unity games (C#)
 

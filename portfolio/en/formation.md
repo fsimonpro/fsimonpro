@@ -2,18 +2,11 @@
 
 [← Portfolio home](../en.md) · [Version française](../fr/formation.md)
 
-<img src="../../assets/formation/ensimag-logo.png" alt="Grenoble INP - Ensimag" height="60" /> &nbsp; <img src="../../assets/formation/waterloo-logo.png" alt="University of Waterloo" height="50" />
+<img src="../../assets/formation/logos.svg" alt="Grenoble INP - Ensimag · University of Waterloo" height="78" />
 
 **Engineering degree from ENSIMAG** (Grenoble INP, France), graduated in 2005, majoring in **Image Processing and Artificial Intelligence**, with a final year on exchange at the **University of Waterloo** (Ontario, Canada).
 
-```mermaid
-flowchart LR
-    B["<b>2000</b><br/>French scientific<br/>baccalaureate, with honors"] --> P["<b>2000 – 2002</b><br/>Preparatory classes<br/>MPSI, MP*"]
-    P --> E1["<b>2002 – 2004</b><br/>ENSIMAG<br/>1st and 2nd year"]
-    E1 --> I["<b>Summer 2004</b><br/>INSERM internship<br/>neural networks"]
-    I --> W["<b>2004 – 2005</b><br/>University of Waterloo<br/>3rd year"]
-    W --> S["<b>2005</b><br/>Final-year internship<br/>White Birds"]
-```
+<img src="../../assets/diagrams/formation-timeline-en.svg" alt="Education timeline 2000-2005" />
 
 ### Highlighted projects
 | Project | Year | What I did |
@@ -27,14 +20,7 @@ flowchart LR
 | **Digital Eyes** | 2003–2004 | Business creation project: augmented reality for museums; appointed company head |
 
 #### Close-up: the checkers AI
-```mermaid
-flowchart LR
-    G["Move generator<br/>multiple captures, kings"] --> M["Minimax"]
-    M --> AB["Alpha-beta"]
-    AB --> T["Transposition table<br/>(hash_map)"]
-    T --> ID["Iterative deepening<br/>time control, move ordering"]
-    ID --> PAR["Parallel minimax<br/>processes (fork), depth threshold"]
-```
+<img src="../../assets/diagrams/checkers-ai-en.svg" alt="Checkers AI" />
 
 #### Close-up: the Waterloo ray tracer (CS 488, 2004)
 Ray tracer written in C++ and called from Python. The final project was to render a scene inspired by the manga *Naruto*, reusing the articulated puppet (hierarchical model) from an earlier assignment.

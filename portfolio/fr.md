@@ -4,13 +4,7 @@
 
 Tech Lead Fullstack .NET / C# & IA. Plus de 20 ans de développement logiciel, dont 11 ans dans le jeu vidéo, et environ 19 ans en position de lead.
 
-```mermaid
-flowchart LR
-    Z["<b>2019 – 2026</b><br/>Manzalab<br/>Lead Dev Teemew, .NET, Azure, IA"] --- Y["<b>2016 – 2019</b><br/>Your Data Consulting<br/>CTO, data & IA prédictive"]
-    Y --- M["<b>2010 – 2016</b><br/>Mando<br/>jeux Unity, mobile, consoles, VR"]
-    M --- W["<b>2005 – 2010</b><br/>White Birds<br/>jeux PC, DS, Wii, iPhone"]
-    W --- E["<b>2002 – 2005</b><br/>ENSIMAG<br/>Image & IA"]
-```
+<img src="../assets/diagrams/career-fr.svg" alt="Frise de carrière" />
 
 ## Les périodes
 

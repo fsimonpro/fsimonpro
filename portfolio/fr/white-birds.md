@@ -6,11 +6,7 @@
 
 Studio de jeux vidéo (notamment jeux d'aventure et point & click). J'y suis entré en stage de fin d'études, puis j'y suis resté 5 ans : développeur junior, puis Lead Dev à partir de 2007.
 
-```mermaid
-flowchart LR
-    A["<b>2005</b><br/>Stage de fin d'études<br/>gameplay Lua sur <i>Paradise</i>"] --> B["<b>2005 – 2007</b><br/>Développeur junior<br/>point & click, outils, moteur PlayAll"]
-    B --> C["<b>2007 – 2010</b><br/>Lead Dev<br/>PC, Nintendo DS, Wii, iPhone / iPad"]
-```
+<img src="../../assets/diagrams/whitebirds-timeline-fr.svg" alt="Frise White Birds 2005-2010" />
 
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
@@ -45,14 +41,7 @@ Crédité *Lead Programmer* · [fiche MobyGames](https://www.mobygames.com/game/
 
 <img src="../../assets/whitebirds/nikopol-screen.jpg" alt="Nikopol, capture d'écran" width="420" />
 
-```mermaid
-flowchart LR
-    M["Équipe + pipeline<br/>avec le studio externe MZone"] --> N
-    E["Outil d'export des warps<br/>C++ / MFC"] --> V["Vue à 360°"]
-    G["Gameplay<br/>Lua"] --> N(("<b>Nikopol</b>"))
-    S["Effets spéciaux<br/>pixel shaders HLSL"] --> N
-    V --> N
-```
+<img src="../../assets/diagrams/nikopol-fr.svg" alt="Mes contributions à Nikopol" />
 
 #### *Kate Brooks' Adventure* (PC), jeu d'objets cachés
 

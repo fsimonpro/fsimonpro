@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 343 322" width="343" height="322" role="img" aria-label="Babel Rising 3D platforms">
+<style>
+  .box { fill: #f6f8fa; stroke: #d0d7de; stroke-width: 1.5; }
+  .hub { fill: #ddf4ff; stroke: #0969da; stroke-width: 2; }
+  .now { stroke: #0969da; stroke-width: 2; }
+  .date { fill: #0969da; font: 700 15px -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
+  .name { fill: #1f2328; font: 700 14px -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
+  .info { fill: #59636e; font: 400 12.5px -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
+  .lbl { fill: #59636e; font: italic 400 12px -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
+  .lblbg { fill: #ffffff; }
+  .link { stroke: #8c959f; stroke-width: 2; fill: none; }
+  .head { fill: #8c959f; }
+  @media (prefers-color-scheme: dark) {
+    .box { fill: #161b22; stroke: #30363d; }
+    .hub { fill: #0c2d6b; stroke: #4493f8; }
+    .now { stroke: #4493f8; }
+    .date { fill: #4493f8; }
+    .name { fill: #e6edf3; }
+    .info, .lbl { fill: #9198a1; }
+    .lblbg { fill: #0d1117; }
+    .link { stroke: #6e7681; }
+    .head { fill: #6e7681; }
+  }
+</style>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="1" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path class="head" d="M0,0 L10,5 L0,10 z" /></marker></defs>
+  <path class="link" d="M152.5,161 C170.5,161 170.5,38 188.5,38" marker-end="url(#arrow)" />
+  <path class="link" d="M152.5,161 C170.5,161 170.5,120 188.5,120" marker-end="url(#arrow)" />
+  <path class="link" d="M152.5,161 C170.5,161 170.5,202 188.5,202" marker-end="url(#arrow)" />
+  <path class="link" d="M152.5,161 C170.5,161 170.5,284 188.5,284" marker-end="url(#arrow)" />
+  <rect class="hub" x="6" y="129" width="146.5" height="64" rx="24" />
+  <text text-anchor="middle"><tspan class="name" x="79.25" y="156">Babel Rising 3D</tspan><tspan class="info" x="79.25" y="174">ShiVa engine</tspan></text>
+  <rect class="box" x="196.5" y="6" width="140.2" height="64" rx="10" />
+  <text text-anchor="middle"><tspan class="name" x="266.6" y="33">PS3</tspan><tspan class="info" x="266.6" y="51">Sony TRC, PS Move</tspan></text>
+  <rect class="box" x="196.5" y="88" width="140.2" height="64" rx="10" />
+  <text text-anchor="middle"><tspan class="name" x="266.6" y="115">Xbox 360</tspan><tspan class="info" x="266.6" y="133">Kinect</tspan></text>
+  <rect class="box" x="196.5" y="170" width="140.2" height="64" rx="10" />
+  <text text-anchor="middle"><tspan class="name" x="266.6" y="197">Oculus Rift</tspan><tspan class="info" x="266.6" y="215">DK1 then DK2</tspan></text>
+  <rect class="box" x="196.5" y="252" width="140.2" height="64" rx="10" />
+  <text text-anchor="middle"><tspan class="name" x="266.6" y="279">PC, Mac, iOS</tspan><tspan class="info" x="266.6" y="297">ports</tspan></text>
+</svg>

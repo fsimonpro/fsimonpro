@@ -2,18 +2,11 @@
 
 [← Accueil du portfolio](../fr.md) · [English version](../en/formation.md)
 
-<img src="../../assets/formation/ensimag-logo.png" alt="Grenoble INP - Ensimag" height="60" /> &nbsp; <img src="../../assets/formation/waterloo-logo.png" alt="University of Waterloo" height="50" />
+<img src="../../assets/formation/logos.svg" alt="Grenoble INP - Ensimag · University of Waterloo" height="78" />
 
 **Ingénieur ENSIMAG** (Grenoble INP), diplômé en 2005, spécialisation **Image et Intelligence Artificielle**, avec une 3e année en échange à l'**Université de Waterloo** (Ontario, Canada).
 
-```mermaid
-flowchart LR
-    B["<b>2000</b><br/>Bac S<br/>mention bien"] --> P["<b>2000 – 2002</b><br/>Prépa MPSI, MP*<br/>Lycée Champollion"]
-    P --> E1["<b>2002 – 2004</b><br/>ENSIMAG<br/>1re et 2e année"]
-    E1 --> I["<b>Été 2004</b><br/>Stage INSERM<br/>réseaux de neurones"]
-    I --> W["<b>2004 – 2005</b><br/>Université de Waterloo<br/>3e année"]
-    W --> S["<b>2005</b><br/>Stage de fin d'études<br/>White Birds"]
-```
+<img src="../../assets/diagrams/formation-timeline-fr.svg" alt="Frise de formation 2000-2005" />
 
 ### Projets marquants
 | Projet | Année | Ce que j'ai fait |
@@ -27,14 +20,7 @@ flowchart LR
 | **Digital Eyes** | 2003–2004 | Projet de création d'entreprise : réalité augmentée pour les musées ; dirigeant désigné |
 
 #### Zoom : l'IA du jeu de dames
-```mermaid
-flowchart LR
-    G["Générateur de coups<br/>prises multiples, dames"] --> M["Minimax"]
-    M --> AB["Alpha-bêta"]
-    AB --> T["Table de transposition<br/>(hash_map)"]
-    T --> ID["Approfondissement itératif<br/>contrôle du temps, tri des coups"]
-    ID --> PAR["Minimax parallélisé<br/>processus (fork), seuil de profondeur"]
-```
+<img src="../../assets/diagrams/checkers-ai-fr.svg" alt="IA du jeu de dames" />
 
 #### Zoom : le ray tracer de Waterloo (CS 488, 2004)
 Ray tracer écrit en C++, appelé depuis Python. Le projet final consistait à rendre une scène inspirée du manga *Naruto*, en réutilisant la marionnette articulée (modèle hiérarchique) d'un devoir précédent.

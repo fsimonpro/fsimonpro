@@ -2,7 +2,7 @@
 
 [← Accueil du portfolio](../fr.md) · [English version](../en/manzalab.md)
 
-<img src="../../assets/manzalab/teemew-logo.png" alt="Teemew" height="40" />
+<img src="../../assets/manzalab/teemew-logo.svg" alt="Teemew" height="60" />
 
 **Lead Dev, juin 2019 – mai 2026.** Lead de l'équipe fullstack (5 développeurs) de **Teemew**, une plateforme 100 % web d'événements virtuels, d'exposition d'œuvres et de discussion audio en temps réel dans un univers 3D. J'étais garant de l'architecture, « de la base de données à l'affichage 3D dans le navigateur ».
 
@@ -40,17 +40,7 @@
 
 ### Architecture
 
-```mermaid
-flowchart LR
-    U["<b>Navigateur</b><br/>Unity WebGPU (3D)<br/>+ WebApps React affichées dans la 3D"] --> CF["<b>Cloudflare</b><br/>front door"]
-    CF --> API["<b>API ASP.NET Core</b><br/>Azure Container Apps"]
-    API -- "stack asynchrone<br/>REST + événements Redis" --> R[("Redis")]
-    API -- "stack temps réel<br/>WebSocket SignalR" --> U
-    U -- "voix temps réel" --> AG["Agora"]
-    API --> DB[("MySQL")]
-    API --> BL[("Azure Blob Storage<br/>médias")]
-    API --> AI["Bots IA<br/>RAG (API OpenAI)"]
-```
+<img src="../../assets/diagrams/teemew-architecture-fr.svg" alt="Architecture de Teemew" />
 
 ### Back-end .NET (6 ans en production)
 - **API ASP.NET Core** (.NET 8 puis .NET 10), **Entity Framework Core** (migrations), **LINQ**, **MySQL** (Azure Database for MySQL)
@@ -74,15 +64,7 @@ flowchart LR
 - **Partage en équipe** : knowledge, skills et agents en `.md` versionnés sur le dépôt, enrichis au fil des développements
 - Serveurs MCP utilisés : mcp-unity, Playwright
 
-```mermaid
-flowchart TB
-    FS["<b>Agent fullstack</b><br/>fixe les contrats"] --> FR["Agent front"]
-    FS --> BK["Agent back"]
-    FS --> FD["Agent front door<br/>(Cloudflare)"]
-    FR --> RV["Agents de code review<br/>et de tests"]
-    BK --> RV
-    FD --> RV
-```
+<img src="../../assets/diagrams/claude-agents-fr.svg" alt="Organisation multi-agents contract-first" />
 
 ### Cloud & DevOps
 - Déploiement en conteneurs **Docker** sur **Azure Container Apps** (Azure Container Registry), **Cloudflare** en front door
