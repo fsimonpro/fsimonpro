@@ -21,7 +21,7 @@
 |---|---|
 | 📲 | **1 à 3 millions** de téléchargements cumulés sur les jeux mobiles |
 | 🥽 | ***Babel Rising 3D*** : dans le lineup des **10 premiers jeux du store Oculus Rift** |
-| 🎮 | ***Babel Rising 3D*** sorti sur **PS3** et **Xbox 360**, porté sur PC, Mac et iOS |
+| 🎮 | ***Babel Rising 3D*** sorti sur **PS3** (PS Move) et **Xbox 360** (Kinect), porté sur PC, Mac et iOS |
 | 👥 | Équipes de **1 à 7 personnes** |
 
 ### *Babel Rising 3D* : consoles et réalité virtuelle
@@ -29,14 +29,14 @@
 <img src="../../assets/mando/babel-rising-3d.png" alt="Babel Rising 3D" width="420" />
 
 - Développé avec le moteur **ShiVa**
-- Sorti sur **PS3** (conformité **Sony TRC**, **PS Move**) et **Xbox 360**
+- Sorti sur **PS3** (conformité **Sony TRC**, **PS Move**) et **Xbox 360** (**Kinect**)
 - Portages **PC, Mac et iOS**
 - Crédité *Programming* · [fiche MobyGames](https://www.mobygames.com/game/57700/babel-rising-3d/)
 
 ```mermaid
 flowchart LR
     S(("<b>Babel Rising 3D</b><br/>moteur ShiVa")) --> PS3["PS3<br/>Sony TRC, PS Move"]
-    S --> X["Xbox 360"]
+    S --> X["Xbox 360<br/>Kinect"]
     S --> O["Oculus Rift<br/>DK1 puis DK2"]
     S --> P["PC, Mac, iOS"]
 ```
@@ -95,11 +95,11 @@ flowchart LR
 | Android | *Hills of Glory 3D*, jeux mobiles | Unity C#, Java (SDK) |
 | PC, Mac | *Hills of Glory 3D*, portages *Babel Rising 3D* | Unity C#, ShiVa |
 | PS3 | *Babel Rising 3D* | ShiVa, Sony TRC, PS Move |
-| Xbox 360 | *Babel Rising 3D* | ShiVa |
+| Xbox 360 | *Babel Rising 3D* | ShiVa, Kinect |
 | VR | *Babel Rising 3D* sur Oculus Rift, *Visiwyg*, prototypes | C++, WPF / XAML |
 | Facebook | *Babel Casino* | Unity C#, SDK Facebook |
 
-[← Période précédente : White Birds Productions (2005–2010)](white-birds.md)
+[← Période précédente : White Birds Productions (2005–2010)](white-birds.md) · Période suivante : [Your Data Consulting (2016–2019) →](your-data.md)
 
 ## Références
 Crédits publics sur MobyGames :
