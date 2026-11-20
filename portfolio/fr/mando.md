@@ -57,7 +57,16 @@ Le jeu faisait partie du lineup des 10 premiers jeux du store Oculus. Le SDK d'o
 <img src="../../assets/mando/hills-of-glory-3d-screen.png" alt="Hills of Glory 3D, capture d'écran" width="420" />
 
 ### Applications mobiles et SDK
-- ***Strip Messenger*** : application **iOS native** (iOS SDK, **Objective-C**), messagerie temps réel façon bande dessinée ; fonctions spécifiques à l'iPhone : caméra, carnet d'adresses, interface clavier
+#### *Strip Messenger*
+
+<img src="../../assets/mando/strip-messenger.jpg" alt="Strip Messenger" width="420" />
+
+- Application **iOS native** (iOS SDK, **Objective-C**) : messagerie instantanée qui transforme les conversations en bandes dessinées
+- Chaque utilisateur crée son avatar ; les messages s'affichent dans des bulles et les emojis deviennent des expressions du personnage
+- Fonctions spécifiques à l'iPhone : caméra, carnet d'adresses, interface clavier
+- L'application est ensuite devenue *Striply* (startup de la French Tech Los Angeles) · [fiche Les Pépites Tech](https://lespepitestech.com/startup-de-la-french-tech/strip-messenger)
+
+#### SDK mobiles
 - **SDK d'achats in-app iOS** intégré puis déployé sur **tous les jeux du studio**
 - **SDK Facebook**
 - Nombreux SDK mobiles : achats in-app, leaderboards, réseaux sociaux, régies publicitaires (Java pour certains SDK)
@@ -67,7 +76,14 @@ Le jeu faisait partie du lineup des 10 premiers jeux du store Oculus. Le SDK d'o
 - **Scan AR d'étiquettes de rhum de luxe** pour vérifier leur authenticité
 - Réalité augmentée sur mobile : lecture de **QR codes** par la caméra
 - R&D sur **casques VR** : prototypes, visites virtuelles, photos 360° et 3D
-- ***Visiwyg*** : solution de visite de logements sur casque VR et sur le web (**WPF, XAML**)
+
+#### *Visiwyg* : pré-visites immobilières en réalité virtuelle
+- Solution clé en main pour la société 2VR, cliente de Mando : appareil photo 360° sur trépied, casques de réalité virtuelle (Samsung Gear VR) et logiciel
+- Le client visite le logement dans le casque, pendant que le conseiller commente la visite depuis un écran de contrôle
+- Points d'intérêt (cheminée, jardin…) et plan du logement accessible en baissant la tête
+- Les conseillers construisent eux-mêmes une visite en un quart d'heure, grâce à une application web
+- **J'ai développé l'ensemble** : application du casque, écran de contrôle du conseiller et application web de construction des visites (**WPF, XAML**)
+- Utilisée fin 2015 par Nexity dans sa première « agence connectée » (Paris 5e) · articles [Clubic](https://www.clubic.com/pro/actualite-e-business/article-786284-1-visitez-nouvel-appartement-3d.html) et [Magazine Expression](https://www.magazineexpression.fr/Guides/Tendance/numerique-le-secteur-immobilier-poursuit-sa-transformation-2950)
 
 ### Ce que j'en retiens
 - **Passage à Unity et au C#**, devenu ma techno principale pendant 15 ans
@@ -95,5 +111,11 @@ Crédits publics sur MobyGames :
 - [*Babel Rising 3D*](https://www.mobygames.com/game/57700/babel-rising-3d/) (2012) : Programming
 - [*Hills of Glory 3D*](https://www.mobygames.com/game/126860/hills-of-glory-3d/) (2013) : Programming
 
+
+Dans la presse :
+- [Strip Messenger, Les Pépites Tech](https://lespepitestech.com/startup-de-la-french-tech/strip-messenger)
+- [Visiwyg chez Nexity, Clubic (décembre 2015)](https://www.clubic.com/pro/actualite-e-business/article-786284-1-visitez-nouvel-appartement-3d.html)
+- [Visiwyg, Magazine Expression (janvier 2016)](https://www.magazineexpression.fr/Guides/Tendance/numerique-le-secteur-immobilier-poursuit-sa-transformation-2950)
+
 ---
-<sub>Visuels issus de MobyGames. Marques et illustrations appartenant à leurs ayants droit.</sub>
+<sub>Visuels issus de MobyGames et de Les Pépites Tech. Marques et illustrations appartenant à leurs ayants droit.</sub>

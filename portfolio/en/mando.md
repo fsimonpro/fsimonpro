@@ -57,7 +57,16 @@ The game was part of the first 10 games on the Oculus store. The original SDK wa
 <img src="../../assets/mando/hills-of-glory-3d-screen.png" alt="Hills of Glory 3D screenshot" width="420" />
 
 ### Mobile apps and SDKs
-- ***Strip Messenger***: **native iOS** app (iOS SDK, **Objective-C**), real-time comic-strip style messaging; iPhone-specific features: camera, address book, keyboard interface
+#### *Strip Messenger*
+
+<img src="../../assets/mando/strip-messenger.jpg" alt="Strip Messenger" width="420" />
+
+- **Native iOS** app (iOS SDK, **Objective-C**): instant messaging that turns conversations into comic strips
+- Each user creates an avatar; messages appear in speech bubbles and emojis become the character's expressions
+- iPhone-specific features: camera, address book, keyboard interface
+- The app later became *Striply* (a French Tech Los Angeles startup) · [Les Pépites Tech profile](https://lespepitestech.com/startup-de-la-french-tech/strip-messenger)
+
+#### Mobile SDKs
 - **iOS in-app purchase SDK** integrated, then rolled out to **every game of the studio**
 - **Facebook SDK**
 - Many mobile SDKs: in-app purchases, leaderboards, social networks, ad networks (Java for some SDKs)
@@ -67,7 +76,14 @@ The game was part of the first 10 games on the Oculus store. The original SDK wa
 - **AR scanning of luxury rum labels** to check their authenticity
 - Mobile augmented reality: **QR code** reading through the camera
 - R&D on **VR headsets**: prototypes, virtual tours, 360° and 3D photos
-- ***Visiwyg***: home tour solution on VR headsets and on the web (**WPF, XAML**)
+
+#### *Visiwyg*: virtual reality property pre-visits
+- Turnkey solution for 2VR, a Mando client: 360° camera on a tripod, virtual reality headsets (Samsung Gear VR) and software
+- The client tours the property in the headset while the agent comments on the visit from a control screen
+- Points of interest (fireplace, garden…) and a floor plan that appears when looking down
+- Agents build a tour themselves in about fifteen minutes, with a web application
+- **I developed all of it**: headset application, agent control screen and web application for building tours (**WPF, XAML**)
+- Used from late 2015 by Nexity in its first "connected agency" (Paris) · articles on [Clubic](https://www.clubic.com/pro/actualite-e-business/article-786284-1-visitez-nouvel-appartement-3d.html) and [Magazine Expression](https://www.magazineexpression.fr/Guides/Tendance/numerique-le-secteur-immobilier-poursuit-sa-transformation-2950) (in French)
 
 ### Takeaways
 - **Move to Unity and C#**, which became my main technology for 15 years
@@ -95,5 +111,11 @@ Public credits on MobyGames:
 - [*Babel Rising 3D*](https://www.mobygames.com/game/57700/babel-rising-3d/) (2012): Programming
 - [*Hills of Glory 3D*](https://www.mobygames.com/game/126860/hills-of-glory-3d/) (2013): Programming
 
+
+In the press (in French):
+- [Strip Messenger, Les Pépites Tech](https://lespepitestech.com/startup-de-la-french-tech/strip-messenger)
+- [Visiwyg at Nexity, Clubic (December 2015)](https://www.clubic.com/pro/actualite-e-business/article-786284-1-visitez-nouvel-appartement-3d.html)
+- [Visiwyg, Magazine Expression (January 2016)](https://www.magazineexpression.fr/Guides/Tendance/numerique-le-secteur-immobilier-poursuit-sa-transformation-2950)
+
 ---
-<sub>Images from MobyGames. Trademarks and artwork belong to their respective owners.</sub>
+<sub>Images from MobyGames and Les Pépites Tech. Trademarks and artwork belong to their respective owners.</sub>
