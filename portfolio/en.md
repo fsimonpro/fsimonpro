@@ -17,7 +17,7 @@ flowchart LR
 | Period | Role | In short | Page |
 |---|---|---|---|
 | 2005 – 2010 | Junior developer, then Lead Dev | Adventure games on PC, Nintendo DS and Wii, iPhone; *Nikopol*, Best Graphics at the Milthon 2008 | [White Birds Productions](en/white-birds.md) |
-| 2010 – 2016 | Lead Dev | Unity and mobile games, *Babel Rising 3D* on PS3, Xbox 360 and Oculus Rift | *coming soon* |
+| 2010 – 2016 | Lead Dev | Unity and mobile games, *Babel Rising 3D* on PS3, Xbox 360 and Oculus Rift | [Mando Productions](en/mando.md) |
 | 2016 – 2019 | CTO | *Livejourney* data visualization platform, predictive AI | *coming soon* |
 | 2019 – 2026 | Lead Dev | *Teemew* 3D web platform: .NET, Azure, real-time, AI | *coming soon* |
 | 2002 – 2005 | Education | ENSIMAG (Image & AI), exchange year at the University of Waterloo | *coming soon* |

@@ -129,6 +129,8 @@ Credited *Programming* · [MobyGames page](https://www.mobygames.com/game/22233/
 | iPhone / iPad | *Cardboard Castle*, *Last King of Africa* | Xcode, Lua |
 | PS3, Xbox 360, PC | *PlayAll* engine (contribution) | C++ |
 
+Next period: [Mando Productions (2010–2016) →](mando.md)
+
 ## References
 Public credits on MobyGames:
 - [Fabien Simon's MobyGames profile](https://www.mobygames.com/person/759004/fabien-simon/)
