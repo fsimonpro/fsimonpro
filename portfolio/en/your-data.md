@@ -23,6 +23,21 @@
 
 <img src="../../assets/diagrams/livejourney-en.svg" alt="Livejourney architecture" />
 
+### *Livejourney* in pictures
+| | |
+|:---:|:---:|
+| <img src="../../assets/yourdata/graphe-parcours.png" alt="Animated journey graph" width="400" /><br/><sub>Animated journey graph: each dot is a customer</sub> | <img src="../../assets/yourdata/vue-ensemble.png" alt="Overview" width="400" /><br/><sub>Overview: average duration, flows, segments, alerts</sub> |
+| <img src="../../assets/yourdata/variantes.png" alt="Journey variants" width="400" /><br/><sub>Journey variants, from most to least frequent</sub> | <img src="../../assets/yourdata/comparaison.png" alt="Journey comparison" width="400" /><br/><sub>Two populations compared on the same time scale</sub> |
+
+<sub>Screenshots taken in 2026 on the original application, simply ported to a recent Unity version, with a demo dataset (fictional customer journeys).</sub>
+
+### Features
+- Import of an event log (ID, interaction, date) and of per-customer attributes
+- **Journey graph** rebuilt automatically: one node per step, links whose thickness follows the volume, automatic layout (Sugiyama algorithm)
+- **Timeline player** that replays journeys at the real date of each event
+- Analysis of **journey variants**, distributions (total duration, number of interactions, time to reach a step), incoming and outgoing flows
+- **Population comparison**, **prediction** and **alert** dashboards
+
 ### What I did
 - **Technical lead** of the solution and management of a team of 3 developers
 - **Architecture**: **Unity** front end, **Python** back end, AI prediction algorithms

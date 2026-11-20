@@ -23,6 +23,21 @@
 
 <img src="../../assets/diagrams/livejourney-fr.svg" alt="Architecture de Livejourney" />
 
+### *Livejourney* en images
+| | |
+|:---:|:---:|
+| <img src="../../assets/yourdata/graphe-parcours.png" alt="Graphe des parcours animé" width="400" /><br/><sub>Graphe des parcours animé : chaque point est un client</sub> | <img src="../../assets/yourdata/vue-ensemble.png" alt="Vue d'ensemble" width="400" /><br/><sub>Vue d'ensemble : durée moyenne, flux, segments, alertes</sub> |
+| <img src="../../assets/yourdata/variantes.png" alt="Variantes de parcours" width="400" /><br/><sub>Variantes de parcours, de la plus fréquente à la plus rare</sub> | <img src="../../assets/yourdata/comparaison.png" alt="Comparaison de parcours" width="400" /><br/><sub>Comparaison de deux populations sur une même échelle de temps</sub> |
+
+<sub>Captures réalisées en 2026 sur l'application d'origine, simplement portée sur une version récente de Unity, avec un jeu de données de démonstration (parcours clients fictifs).</sub>
+
+### Fonctionnalités
+- Import d'un journal d'événements (identifiant, interaction, date) et de caractéristiques par client
+- **Graphe des parcours** reconstruit automatiquement : une étape par nœud, des liens dont l'épaisseur suit le volume, mise en page automatique (algorithme de Sugiyama)
+- **Lecteur temporel** qui rejoue les parcours à la date réelle des événements
+- Analyse des **variantes de parcours**, distributions (durée totale, nombre d'interactions, délai d'accès à une étape), flux entrants et sortants
+- **Comparaison de populations**, tableaux de bord de **prédiction** et d'**alertes**
+
 ### Ce que j'ai fait
 - **Direction technique** de la solution et encadrement d'une équipe de 3 développeurs
 - **Architecture** : front-end en **Unity**, back-end en **Python**, algorithmes de prédiction par IA
