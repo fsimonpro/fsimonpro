@@ -6,18 +6,18 @@ Fullstack .NET / C# & AI Tech Lead. 20+ years of software development, including
 
 ```mermaid
 flowchart LR
-    E["<b>2002 – 2005</b><br/>ENSIMAG<br/>Image & AI"] --> W["<b>2005 – 2010</b><br/>White Birds<br/>PC, DS, Wii, iPhone games"]
-    W --> M["<b>2010 – 2016</b><br/>Mando<br/>Unity, mobile, console, VR games"]
-    M --> Y["<b>2016 – 2019</b><br/>Your Data Consulting<br/>CTO, data & predictive AI"]
-    Y --> Z["<b>2019 – 2026</b><br/>Manzalab<br/>Lead Dev Teemew, .NET, Azure, AI"]
+    Z["<b>2019 – 2026</b><br/>Manzalab<br/>Lead Dev Teemew, .NET, Azure, AI"] --- Y["<b>2016 – 2019</b><br/>Your Data Consulting<br/>CTO, data & predictive AI"]
+    Y --- M["<b>2010 – 2016</b><br/>Mando<br/>Unity, mobile, console, VR games"]
+    M --- W["<b>2005 – 2010</b><br/>White Birds<br/>PC, DS, Wii, iPhone games"]
+    W --- E["<b>2002 – 2005</b><br/>ENSIMAG<br/>Image & AI"]
 ```
 
 ## Periods
 
 | Period | Role | In short | Page |
 |---|---|---|---|
-| 2005 – 2010 | Junior developer, then Lead Dev | Adventure games on PC, Nintendo DS and Wii, iPhone; *Nikopol*, Best Graphics at the Milthon 2008 | [White Birds Productions](en/white-birds.md) |
-| 2010 – 2016 | Lead Dev | Unity and mobile games, *Babel Rising 3D* on PS3, Xbox 360 and Oculus Rift | [Mando Productions](en/mando.md) |
-| 2016 – 2019 | CTO | *Livejourney* data visualization platform, predictive AI | [Your Data Consulting](en/your-data.md) |
 | 2019 – 2026 | Lead Dev | *Teemew* 3D web platform: .NET, Azure, real-time, AI | [Manzalab](en/manzalab.md) |
+| 2016 – 2019 | CTO | *Livejourney* data visualization platform, predictive AI | [Your Data Consulting](en/your-data.md) |
+| 2010 – 2016 | Lead Dev | Unity and mobile games, *Babel Rising 3D* on PS3, Xbox 360 and Oculus Rift | [Mando Productions](en/mando.md) |
+| 2005 – 2010 | Junior developer, then Lead Dev | Adventure games on PC, Nintendo DS and Wii, iPhone; *Nikopol*, Best Graphics at the Milthon 2008 | [White Birds Productions](en/white-birds.md) |
 | 2002 – 2005 | Education | ENSIMAG (Image & AI), exchange year at the University of Waterloo | [Education](en/formation.md) |
