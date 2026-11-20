@@ -29,7 +29,7 @@
 | ⚡ | Environnement 3D chargé dans le navigateur en **moins de 10 secondes** |
 | 🏢 | Une **vingtaine de clients principaux** : La Poste, SNCF, SFR, Sopra Steria, France Travail, April… |
 | 🎟️ | *Village Numérique* de Pôle Emploi : **15 000 inscrits** ; onboarding Sopra Steria : **500 nouveaux collaborateurs par mois** |
-| <img src="../../assets/manzalab/clients/virtuality.svg" alt="VIRTUALITY" height="48" /> | **VIRTUALITY** (décembre 2020) : événement que j'ai organisé, environ **1 500 participants** |
+| 🎤 | **VIRTUALITY** (décembre 2020) : événement que j'ai organisé, environ **1 500 participants** |
 | 🌍 | Plateforme disponible en **9 langues**, sur PC / Mac (web) et en VR |
 
 ### Teemew en images

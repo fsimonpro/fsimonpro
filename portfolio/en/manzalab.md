@@ -29,7 +29,7 @@
 | ⚡ | 3D environment loaded in the browser in **under 10 seconds** |
 | 🏢 | Around **20 main clients**: La Poste, SNCF, SFR, Sopra Steria, France Travail, April… |
 | 🎟️ | Pôle Emploi's *Village Numérique*: **15,000 registrations**; Sopra Steria onboarding: **500 new employees per month** |
-| <img src="../../assets/manzalab/clients/virtuality.svg" alt="VIRTUALITY" height="48" /> | **VIRTUALITY** (December 2020): an event I organized, about **1,500 attendees** |
+| 🎤 | **VIRTUALITY** (December 2020): an event I organized, about **1,500 attendees** |
 | 🌍 | Platform available in **9 languages**, on PC / Mac (web) and in VR |
 
 ### Teemew in pictures
