@@ -11,6 +11,8 @@
 - **AI in the product**: audio and text AI bots connected to a RAG (OpenAI API), with speech-to-text transcription.
 - **Claude Code**: code review and testing agents shared with the team, contract-first multi-agent development.
 
+📂 **Detailed portfolio:** [English](https://github.com/fsimonpro/fsimonpro/blob/main/portfolio/en.md) · [Français](https://github.com/fsimonpro/fsimonpro/blob/main/portfolio/fr.md)
+
 ### Stack
 C# / .NET · ASP.NET Core · Azure · Docker · Cloudflare · Redis · MySQL · SignalR · OpenAI RAG · Unity
 
