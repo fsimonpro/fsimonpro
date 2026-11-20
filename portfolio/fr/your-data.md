@@ -55,4 +55,4 @@ flowchart LR
 - **Unity hors du jeu vidéo** : un moteur 3D temps réel utilisé pour la datavisualisation
 
 ---
-Période précédente : [← Mando Productions (2010–2016)](mando.md)
+Période précédente : [← Mando Productions (2010–2016)](mando.md) · Période suivante : [Manzalab (2019–2026) →](manzalab.md)

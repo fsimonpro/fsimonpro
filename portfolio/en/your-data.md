@@ -55,4 +55,4 @@ flowchart LR
 - **Unity beyond games**: a real-time 3D engine used for data visualization
 
 ---
-Previous period: [← Mando Productions (2010–2016)](mando.md)
+Previous period: [← Mando Productions (2010–2016)](mando.md) · Next period: [Manzalab (2019–2026) →](manzalab.md)
