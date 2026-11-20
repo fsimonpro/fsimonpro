@@ -1,6 +1,6 @@
 # Portfolio détaillé – Fabien Simon
 
-[English version](en.md) · [← Retour au profil](../README.md)
+[English version](en.md) · [← Retour au profil](../README.md) · [Mes crédits sur MobyGames](https://www.mobygames.com/person/759004/fabien-simon/)
 
 Tech Lead Fullstack .NET / C# & IA, plus de 20 ans de développement logiciel, dont 11 ans dans le jeu vidéo (2005–2016).
 
@@ -51,6 +51,10 @@ flowchart LR
 - Effets spéciaux en **pixel shaders HLSL**
 - Mise en place de l'équipe et du pipeline de production avec un studio externe (**MZone**)
 
+Crédité *Lead Programmer* · [fiche MobyGames](https://www.mobygames.com/game/36518/nikopol-secrets-of-the-immortals/)
+
+<img src="../assets/whitebirds/nikopol-screen.jpg" alt="Nikopol, capture d'écran" width="420" />
+
 ```mermaid
 flowchart LR
     M["Équipe + pipeline<br/>avec le studio externe MZone"] --> N
@@ -61,8 +65,13 @@ flowchart LR
 ```
 
 #### *Kate Brooks' Adventure*, jeu d'objets cachés cross-platform
+
+<img src="../assets/whitebirds/kate-brooks.webp" alt="The Secret Legacy: A Kate Brooks Adventure" width="130" align="right" />
+
 - Jeu PC d'objets cachés en trois chapitres, décliné sur Wii, iPad et iPhone
 - Mise en place de l'équipe et du pipeline
+
+Crédité *Lead Programmer* · [fiche MobyGames](https://www.mobygames.com/game/253218/the-secret-legacy-a-kate-brooks-adventure/)
 
 ```mermaid
 flowchart LR
@@ -72,10 +81,14 @@ flowchart LR
 ```
 
 #### Nintendo DS
+
+<img src="../assets/whitebirds/crime-scene.webp" alt="Crime Scene" width="130" align="right" />
+
 - ***Let's Play Fashion Designer*** : gestion de projet jusqu'à la livraison, développement en **C** avec une mémoire de **256 Ko** (gestion fine de la mémoire)
 - ***Tower Defense*** : affichage isométrique, pathfinding
 - ***Nikopol DS*** : affichage à 360° sur DS
 - Prototype de jeu d'énigmes 2D façon *Professeur Layton* (**C++**)
+- ***Crime Scene*** (2010) : crédité *Additional Programming* · [fiche MobyGames](https://www.mobygames.com/game/69016/crime-scene/)
 
 #### Nintendo Wii : *Aztec Treasure Hunt*
 - Point & click 2D avec des outils en 3D
@@ -83,8 +96,13 @@ flowchart LR
 - Équipe de 5 : 3 intégrateurs, 1 codeur moteur, 1 codeur gameplay
 
 #### iPhone / iPad
-- ***Cardboard Castle*** (**Xcode + Lua**) : top 5 App Store France
+
+<img src="../assets/whitebirds/cardboard-castle.jpg" alt="Cardboard Castle" width="260" align="right" />
+
+- ***Cardboard Castle*** (**Xcode + Lua**) : top 5 App Store France · crédité *Lead Programmer* · [fiche MobyGames](https://www.mobygames.com/game/55729/cardboard-castle/)
 - ***Last King of Africa*** : adaptation de *Paradise*
+
+<br clear="right" />
 
 ### Développeur junior (mai 2005 – octobre 2007)
 
@@ -96,12 +114,22 @@ flowchart LR
 - Mini-jeu de pêche (inertie, mouvements aléatoires), caméras qui suivent un personnage
 - Travail avec des sous-traitants slovènes via un gestionnaire de sources
 
+Crédité *Programming* · [fiche MobyGames](https://www.mobygames.com/game/22233/paradise/)
+
+<img src="../assets/whitebirds/paradise-screen.jpg" alt="Paradise, capture d'écran" width="420" />
+
 #### Jeux point & click
+
+<img src="../assets/whitebirds/sinking-island.webp" alt="Sinking Island" width="130" align="right" />
+
 - ***Paradise*** et ***Martine 1 & 2*** (jeux ludo-éducatifs) : moteur maison, scripts **Lua**
+- ***Sinking Island*** (PC, 2007) : crédité *Programming* · [fiche MobyGames](https://www.mobygames.com/game/30685/sinking-island/)
 
 #### Outils et moteur
 - Outils d'export d'assets en **C++** et pipelines de production
 - Participation au moteur 3D multiplateforme ***PlayAll*** (PS3, Xbox 360, PC, C++), commun à plusieurs entreprises ; prototype d'un système de point & click
+
+<br clear="right" />
 
 ### Ce que j'en retiens
 - **Travail étroit avec les game designers**, énormément sur les jeux d'aventure
@@ -112,11 +140,21 @@ flowchart LR
 ### Récapitulatif par plateforme
 | Plateforme | Jeux | Technos |
 |---|---|---|
-| PC | *Paradise*, *Martine 1 & 2*, *Nikopol*, *Kate Brooks' Adventure* | Moteur maison, Lua, C++ / MFC, HLSL |
-| Nintendo DS | *Let's Play Fashion Designer*, *Tower Defense*, *Nikopol DS*, prototype d'énigmes | C, C++ |
+| PC | *Paradise*, *Martine 1 & 2*, *Sinking Island*, *Nikopol*, *Kate Brooks' Adventure* | Moteur maison, Lua, C++ / MFC, HLSL |
+| Nintendo DS | *Let's Play Fashion Designer*, *Tower Defense*, *Nikopol DS*, *Crime Scene*, prototype d'énigmes | C, C++ |
 | Nintendo Wii | *Aztec Treasure Hunt*, *Kate Brooks' Adventure* | TRC Wii |
 | iPhone / iPad | *Cardboard Castle*, *Last King of Africa*, *Kate Brooks' Adventure* | Xcode, Lua |
 | PS3, Xbox 360, PC | Moteur *PlayAll* (participation) | C++ |
 
+## Références
+Crédits publics sur MobyGames :
+- [Profil de Fabien Simon sur MobyGames](https://www.mobygames.com/person/759004/fabien-simon/)
+- [*Nikopol: Secrets of the Immortals*](https://www.mobygames.com/game/36518/nikopol-secrets-of-the-immortals/) (2008) : Lead Programmer
+- [*The Secret Legacy: A Kate Brooks Adventure*](https://www.mobygames.com/game/253218/the-secret-legacy-a-kate-brooks-adventure/) (2011) : Lead Programmer
+- [*Cardboard Castle*](https://www.mobygames.com/game/55729/cardboard-castle/) (2011) : Lead Programmer
+- [*Crime Scene*](https://www.mobygames.com/game/69016/crime-scene/) (2010) : Additional Programming
+- [*Sinking Island*](https://www.mobygames.com/game/30685/sinking-island/) (2007) : Programming
+- [*Paradise*](https://www.mobygames.com/game/22233/paradise/) (2006) : Programming
+
 ---
-<sub>Visuels : logo et jaquettes issus de Wikipédia ; marques et illustrations appartenant à leurs ayants droit.</sub>
+<sub>Visuels : logo et jaquettes de Nikopol et Paradise issus de Wikipédia ; autres jaquettes et captures issues de MobyGames. Marques et illustrations appartenant à leurs ayants droit.</sub>
