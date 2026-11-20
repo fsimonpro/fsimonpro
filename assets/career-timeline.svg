@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 140" width="920" height="140" role="img" aria-label="Career timeline: ENSIMAG 2002-2005, White Birds 2005-2010, Mando 2010-2016, Your Data Consulting 2016-2019, Manzalab 2019-2026">
+  <style>
+    .box { fill: #f6f8fa; stroke: #d0d7de; stroke-width: 1.5; }
+    .now { stroke: #0969da; stroke-width: 2; }
+    .date { fill: #0969da; font: 700 15px -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .name { fill: #1f2328; font: 700 14px -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .info { fill: #59636e; font: 400 12.5px -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .link { stroke: #8c959f; stroke-width: 2; fill: none; }
+    .head { fill: #8c959f; }
+    @media (prefers-color-scheme: dark) {
+      .box { fill: #161b22; stroke: #30363d; }
+      .now { stroke: #4493f8; }
+      .date { fill: #4493f8; }
+      .name { fill: #e6edf3; }
+      .info { fill: #9198a1; }
+      .link { stroke: #6e7681; }
+      .head { fill: #6e7681; }
+    }
+  </style>
+
+  <!-- connectors -->
+  <g>
+    <line class="link" x1="164" y1="70" x2="184" y2="70" /><polygon class="head" points="184,64 192,70 184,76" />
+    <line class="link" x1="352" y1="70" x2="372" y2="70" /><polygon class="head" points="372,64 380,70 372,76" />
+    <line class="link" x1="540" y1="70" x2="560" y2="70" /><polygon class="head" points="560,64 568,70 560,76" />
+    <line class="link" x1="728" y1="70" x2="748" y2="70" /><polygon class="head" points="748,64 756,70 748,76" />
+  </g>
+
+  <!-- ENSIMAG -->
+  <rect class="box" x="4" y="6" width="160" height="128" rx="10" />
+  <text text-anchor="middle" x="84"><tspan class="date" x="84" y="34">2002 – 2005</tspan><tspan class="name" x="84" y="58">ENSIMAG</tspan><tspan class="info" x="84" y="80">Engineering degree</tspan><tspan class="info" x="84" y="98">Image &amp; AI</tspan><tspan class="info" x="84" y="116">Waterloo exchange</tspan></text>
+
+  <!-- White Birds -->
+  <rect class="box" x="192" y="6" width="160" height="128" rx="10" />
+  <text text-anchor="middle" x="272"><tspan class="date" x="272" y="34">2005 – 2010</tspan><tspan class="name" x="272" y="58">White Birds</tspan><tspan class="info" x="272" y="80">Junior dev, then Lead</tspan><tspan class="info" x="272" y="98">PC, DS, Wii,</tspan><tspan class="info" x="272" y="116">iPhone games</tspan></text>
+
+  <!-- Mando -->
+  <rect class="box" x="380" y="6" width="160" height="128" rx="10" />
+  <text text-anchor="middle" x="460"><tspan class="date" x="460" y="34">2010 – 2016</tspan><tspan class="name" x="460" y="58">Mando</tspan><tspan class="info" x="460" y="80">Lead Dev</tspan><tspan class="info" x="460" y="98">Unity, mobile,</tspan><tspan class="info" x="460" y="116">console, VR games</tspan></text>
+
+  <!-- Your Data Consulting -->
+  <rect class="box" x="568" y="6" width="160" height="128" rx="10" />
+  <text text-anchor="middle" x="648"><tspan class="date" x="648" y="34">2016 – 2019</tspan><tspan class="name" x="648" y="58">Your Data Consulting</tspan><tspan class="info" x="648" y="80">CTO</tspan><tspan class="info" x="648" y="98">Data visualization,</tspan><tspan class="info" x="648" y="116">predictive AI</tspan></text>
+
+  <!-- Manzalab -->
+  <rect class="box now" x="756" y="6" width="160" height="128" rx="10" />
+  <text text-anchor="middle" x="836"><tspan class="date" x="836" y="34">2019 – 2026</tspan><tspan class="name" x="836" y="58">Manzalab</tspan><tspan class="info" x="836" y="80">Lead Dev, Teemew</tspan><tspan class="info" x="836" y="98">.NET, Azure,</tspan><tspan class="info" x="836" y="116">real-time, AI</tspan></text>
+</svg>

@@ -16,13 +16,7 @@ C# / .NET · ASP.NET Core · Azure · Docker · Cloudflare · Redis · MySQL · 
 
 ### Career
 
-```mermaid
-flowchart LR
-    Z["<b>2019 – 2026</b><br/>Manzalab<br/>Lead Dev Teemew, .NET, Azure, AI"] --- Y["<b>2016 – 2019</b><br/>Your Data Consulting<br/>CTO, data & predictive AI"]
-    Y --- M["<b>2010 – 2016</b><br/>Mando<br/>Unity, mobile, console, VR games"]
-    M --- W["<b>2005 – 2010</b><br/>White Birds<br/>PC, DS, Wii, iPhone games"]
-    W --- E["<b>2002 – 2005</b><br/>ENSIMAG<br/>Image & AI"]
-```
+<img src="assets/career-timeline.svg" alt="Career timeline: ENSIMAG (2002–2005), White Birds (2005–2010), Mando (2010–2016), Your Data Consulting (2016–2019), Manzalab (2019–2026)" width="100%" />
 
 | Period | Role | In short | Details |
 |---|---|---|---|
