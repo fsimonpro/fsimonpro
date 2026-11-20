@@ -81,18 +81,21 @@
 - **Packages UPM maison** faits en équipe : système d'avatar, parsing JSON, lecteur de Gaussian splats…
 
 ### Projets et événements
-- **SFR** : Salon des constructeurs 2020 en 100 % numérique (stands Altice, Apple, Samsung, Huawei, Sony…)
-- **Forum International de la Cybersécurité (FIC)** : des milliers de participants ; la plateforme a résisté aux attaques des hackers présents
-- **Pôle Emploi (France Travail)** : *Village Numérique*, une centaine d'entreprises du numérique, 15 000 inscrits, job dating
-- **Sopra Steria** : onboarding de 500 nouveaux collaborateurs par mois (auditorium, workshops, jeux par équipes)
-- **Auchan** : recrutement d'apprentis aux métiers de bouche dans des univers sur mesure
-- **Metakwark** : campus virtuels (inscriptions, emplois du temps, salles de cours persistantes)
-- **TF1 Pub** : présentation des programmes aux annonceurs, roof-top face à la tour Eiffel
-- **Newen Studios** (aujourd'hui TF1 Studio) : Zeppelin virtuel pour vendre films et séries pendant les festivals
-- **Bureaux virtuels** : Airbus, TF1 Studio
-- **Art** : Métamusée, Xclusiv World (galeries virtuelles)
-- **Crédit Agricole** : application VR sur casque HTC Vive Focus
-- **VIRTUALITY** (décembre 2020) : pendant le covid, j'ai organisé cet événement technique sur notre plateforme, à la place de l'événement physique au Carreau du Temple
+
+| | |
+|:---:|---|
+| <img src="../../assets/manzalab/clients/sfr.svg" alt="SFR" height="48" /> | **SFR** : Salon des constructeurs 2020 en 100 % numérique (stands Altice, Apple, Samsung, Huawei, Sony…) |
+| <img src="../../assets/manzalab/clients/fic.svg" alt="Forum InCyber (FIC)" height="48" /> | **Forum International de la Cybersécurité (FIC)** : des milliers de participants ; la plateforme a résisté aux attaques des hackers présents |
+| <img src="../../assets/manzalab/clients/pole-emploi.svg" alt="Pôle Emploi" height="48" /> | **Pôle Emploi (France Travail)** : *Village Numérique*, une centaine d'entreprises du numérique, 15 000 inscrits, job dating |
+| <img src="../../assets/manzalab/clients/sopra-steria.svg" alt="Sopra Steria" height="48" /> | **Sopra Steria** : onboarding de 500 nouveaux collaborateurs par mois (auditorium, workshops, jeux par équipes) |
+| <img src="../../assets/manzalab/clients/auchan.svg" alt="Auchan" height="48" /> | **Auchan** : recrutement d'apprentis aux métiers de bouche dans des univers sur mesure |
+| <img src="../../assets/manzalab/clients/kwark.svg" alt="Kwark Education" height="48" /> | **Kwark Education** : campus virtuels (inscriptions, emplois du temps, salles de cours persistantes) |
+| <img src="../../assets/manzalab/clients/tf1-pub.svg" alt="TF1 Pub" height="48" /> | **TF1 Pub** : présentation des programmes aux annonceurs, roof-top face à la tour Eiffel |
+| <img src="../../assets/manzalab/clients/studio-tf1.svg" alt="Studio TF1" height="48" /> | **Newen Studios** (aujourd'hui TF1 Studio) : Zeppelin virtuel pour vendre films et séries pendant les festivals |
+| <img src="../../assets/manzalab/clients/airbus.svg" alt="Airbus" height="48" /> | **Bureaux virtuels** : Airbus, TF1 Studio |
+| <img src="../../assets/manzalab/clients/credit-agricole.svg" alt="Crédit Agricole" height="48" /> | **Crédit Agricole** : application VR sur casque HTC Vive Focus |
+| 🎨 | **Art** : Métamusée, Xclusiv World (galeries virtuelles) |
+| 🎤 | **VIRTUALITY** (décembre 2020) : pendant le covid, j'ai organisé cet événement technique sur notre plateforme, à la place de l'événement physique au Carreau du Temple |
 
 #### Autres produits
 - **Teemew Mobile** : reprise en main d'une solution de formation sur mobile (Android, iOS), front-end Unity, back-end PHP / MySQL

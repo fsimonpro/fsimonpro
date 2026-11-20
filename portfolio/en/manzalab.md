@@ -81,18 +81,21 @@
 - **In-house UPM packages** built as a team: avatar system, JSON parsing, Gaussian splat player…
 
 ### Projects and events
-- **SFR**: 2020 manufacturers' trade show, 100% digital (Altice, Apple, Samsung, Huawei, Sony booths…)
-- **International Cybersecurity Forum (FIC)**: thousands of attendees; the platform withstood attacks from the hackers attending
-- **Pôle Emploi (France Travail)**: *Village Numérique*, about a hundred tech companies, 15,000 registrations, job dating
-- **Sopra Steria**: onboarding of 500 new employees per month (auditorium, workshops, team games)
-- **Auchan**: recruiting food-trade apprentices in custom-built worlds
-- **Metakwark**: virtual campuses (enrollment, timetables, persistent classrooms)
-- **TF1 Pub**: presenting new TV programs to advertisers, on a rooftop facing the Eiffel Tower
-- **Newen Studios** (now TF1 Studio): a virtual Zeppelin to sell films and series during festivals
-- **Virtual offices**: Airbus, TF1 Studio
-- **Art**: Métamusée, Xclusiv World (virtual galleries)
-- **Crédit Agricole**: VR application on HTC Vive Focus headsets
-- **VIRTUALITY** (December 2020): during covid, I organized this tech event on our platform, replacing the physical event at the Carreau du Temple in Paris
+
+| | |
+|:---:|---|
+| <img src="../../assets/manzalab/clients/sfr.svg" alt="SFR" height="48" /> | **SFR**: 2020 manufacturers' trade show, 100% digital (Altice, Apple, Samsung, Huawei, Sony booths…) |
+| <img src="../../assets/manzalab/clients/fic.svg" alt="InCyber Forum (FIC)" height="48" /> | **International Cybersecurity Forum (FIC)**: thousands of attendees; the platform withstood attacks from the hackers attending |
+| <img src="../../assets/manzalab/clients/pole-emploi.svg" alt="Pôle Emploi" height="48" /> | **Pôle Emploi (France Travail)**: *Village Numérique*, about a hundred tech companies, 15,000 registrations, job dating |
+| <img src="../../assets/manzalab/clients/sopra-steria.svg" alt="Sopra Steria" height="48" /> | **Sopra Steria**: onboarding of 500 new employees per month (auditorium, workshops, team games) |
+| <img src="../../assets/manzalab/clients/auchan.svg" alt="Auchan" height="48" /> | **Auchan**: recruiting food-trade apprentices in custom-built worlds |
+| <img src="../../assets/manzalab/clients/kwark.svg" alt="Kwark Education" height="48" /> | **Kwark Education**: virtual campuses (enrollment, timetables, persistent classrooms) |
+| <img src="../../assets/manzalab/clients/tf1-pub.svg" alt="TF1 Pub" height="48" /> | **TF1 Pub**: presenting new TV programs to advertisers, on a rooftop facing the Eiffel Tower |
+| <img src="../../assets/manzalab/clients/studio-tf1.svg" alt="Studio TF1" height="48" /> | **Newen Studios** (now TF1 Studio): a virtual Zeppelin to sell films and series during festivals |
+| <img src="../../assets/manzalab/clients/airbus.svg" alt="Airbus" height="48" /> | **Virtual offices**: Airbus, TF1 Studio |
+| <img src="../../assets/manzalab/clients/credit-agricole.svg" alt="Crédit Agricole" height="48" /> | **Crédit Agricole**: VR application on HTC Vive Focus headsets |
+| 🎨 | **Art**: Métamusée, Xclusiv World (virtual galleries) |
+| 🎤 | **VIRTUALITY** (December 2020): during covid, I organized this tech event on our platform, replacing the physical event at the Carreau du Temple in Paris |
 
 #### Other products
 - **Teemew Mobile**: took over a mobile training solution (Android, iOS), Unity front end, PHP / MySQL back end
