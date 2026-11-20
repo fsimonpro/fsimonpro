@@ -25,10 +25,10 @@
 #### Close-up: the Waterloo ray tracer (CS 488, 2004)
 Ray tracer written in C++ and called from Python. The final project was to render a scene inspired by the manga *Naruto*, reusing the articulated puppet (hierarchical model) from an earlier assignment.
 
-| | |
-|:---:|:---:|
-| <img src="../../assets/formation/raytracer-scene-finale.png" alt="Ray tracer final scene" width="380" /><br/><sub>Final scene (also rendered as an animated video)</sub> | <img src="../../assets/formation/raytracer-reflexion-refraction.png" alt="Reflection and refraction" width="380" /><br/><sub>Recursive reflection + refraction on a mesh</sub> |
-| <img src="../../assets/formation/raytracer-bump-texture.png" alt="Bump mapping and textures" width="380" /><br/><sub>Bump mapping, textures and antialiasing</sub> | <img src="../../assets/formation/raytracer-flamme.png" alt="Flame simulation" width="380" /><br/><sub>Flame simulation</sub> |
+| | | |
+|:---:|:---:|:---:|
+| <img src="../../assets/formation/raytracer-scene-finale.gif" alt="Animated final scene" width="260" /><br/><sub>Final scene, animated</sub> | <img src="../../assets/formation/raytracer-reflexion-refraction.png" alt="Reflection and refraction" width="260" /><br/><sub>Recursive reflection + refraction</sub> | <img src="../../assets/formation/raytracer-fisheye.png" alt="Fish-eye camera" width="260" /><br/><sub>180° fish-eye camera</sub> |
+| <img src="../../assets/formation/raytracer-bump-texture.png" alt="Bump mapping and textures" width="260" /><br/><sub>Bump mapping and antialiasing</sub> | <img src="../../assets/formation/raytracer-textures.png" alt="Procedural textures" width="260" /><br/><sub>Procedural textures (Perlin noise)</sub> | <img src="../../assets/formation/raytracer-flamme.gif" alt="Animated flame simulation" width="260" /><br/><sub>Flame simulation, animated</sub> |
 
 - **Primitives and meshes**, hierarchical models
 - **Recursive reflections** and **refractions** (adjustable indices), which can be combined

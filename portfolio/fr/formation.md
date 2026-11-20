@@ -25,10 +25,10 @@
 #### Zoom : le ray tracer de Waterloo (CS 488, 2004)
 Ray tracer écrit en C++, appelé depuis Python. Le projet final consistait à rendre une scène inspirée du manga *Naruto*, en réutilisant la marionnette articulée (modèle hiérarchique) d'un devoir précédent.
 
-| | |
-|:---:|:---:|
-| <img src="../../assets/formation/raytracer-scene-finale.png" alt="Scène finale du ray tracer" width="380" /><br/><sub>Scène finale (aussi rendue en vidéo animée)</sub> | <img src="../../assets/formation/raytracer-reflexion-refraction.png" alt="Réflexion et réfraction" width="380" /><br/><sub>Réflexion + réfraction récursives sur un maillage</sub> |
-| <img src="../../assets/formation/raytracer-bump-texture.png" alt="Bump mapping et textures" width="380" /><br/><sub>Bump mapping, textures et antialiasing</sub> | <img src="../../assets/formation/raytracer-flamme.png" alt="Simulation de flamme" width="380" /><br/><sub>Simulation de flamme</sub> |
+| | | |
+|:---:|:---:|:---:|
+| <img src="../../assets/formation/raytracer-scene-finale.gif" alt="Scène finale animée" width="260" /><br/><sub>Scène finale, animée</sub> | <img src="../../assets/formation/raytracer-reflexion-refraction.png" alt="Réflexion et réfraction" width="260" /><br/><sub>Réflexion + réfraction récursives</sub> | <img src="../../assets/formation/raytracer-fisheye.png" alt="Caméra fish-eye" width="260" /><br/><sub>Caméra fish-eye 180°</sub> |
+| <img src="../../assets/formation/raytracer-bump-texture.png" alt="Bump mapping et textures" width="260" /><br/><sub>Bump mapping et antialiasing</sub> | <img src="../../assets/formation/raytracer-textures.png" alt="Textures procédurales" width="260" /><br/><sub>Textures procédurales (bruit de Perlin)</sub> | <img src="../../assets/formation/raytracer-flamme.gif" alt="Simulation de flamme animée" width="260" /><br/><sub>Simulation de flamme, animée</sub> |
 
 - **Primitives et maillages**, modèles hiérarchiques
 - **Réflexions récursives** et **réfractions** (indices réglables), combinables
