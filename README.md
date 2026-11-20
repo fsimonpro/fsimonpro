@@ -17,9 +17,9 @@
 C# / .NET · ASP.NET Core · Azure · Docker · Cloudflare · Redis · MySQL · SignalR · OpenAI RAG · Unity
 
 ### Public repositories
-- [**TestAgentMCP**](https://github.com/fsimonpro/TestAgentMCP) (C#, .NET 10): WinForms shape editor driven by mouse, by prompt (OpenAI function calling) or by an external MCP client such as Claude Code, through its own local MCP server. Animated scenes created "blind", through MCP prompts only.
-- [**voxel**](https://github.com/fsimonpro/voxel) (C++/CLI, 2011): software voxel renderer in the style of *Comanche*: heightmap + albedo → 3D terrain view, no GPU, written entirely by hand.
-- [**TestPlayableAds**](https://github.com/fsimonpro/TestPlayableAds) (Unity, C#): sliding puzzle playable ad built with the Luna (Playworks) SDK, tweakable from the Luna Playground without rebuilding.
+- [**ShapeDrawingMCP**](https://github.com/fsimonpro/ShapeDrawingMCP) (C#, .NET 10): WinForms shape editor driven by mouse, by prompt (OpenAI function calling) or by an external MCP client such as Claude Code, through its own local MCP server. Animated scenes created "blind", through MCP prompts only.
+- [**VoxelRendererSample**](https://github.com/fsimonpro/VoxelRendererSample) (C++/CLI, 2011): software voxel renderer in the style of *Comanche*: heightmap + albedo → 3D terrain view, no GPU, written entirely by hand.
+- [**PlayableAdsSample**](https://github.com/fsimonpro/PlayableAdsSample) (Unity, C#): sliding puzzle playable ad built with the Luna (Playworks) SDK, tweakable from the Luna Playground without rebuilding.
 
 ### Contact
 [LinkedIn](https://www.linkedin.com/in/fabien-simon-6783862/)
