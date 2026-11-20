@@ -129,7 +129,7 @@ Crédité *Programming* · [fiche MobyGames](https://www.mobygames.com/game/2223
 | iPhone / iPad | *Cardboard Castle*, *Last King of Africa* | Xcode, Lua |
 | PS3, Xbox 360, PC | Moteur *PlayAll* (participation) | C++ |
 
-Période suivante : [Mando Productions (2010–2016) →](mando.md)
+[← Période précédente : Formation (2000–2005)](formation.md) · Période suivante : [Mando Productions (2010–2016) →](mando.md)
 
 ## Références
 Crédits publics sur MobyGames :

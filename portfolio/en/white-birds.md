@@ -129,7 +129,7 @@ Credited *Programming* · [MobyGames page](https://www.mobygames.com/game/22233/
 | iPhone / iPad | *Cardboard Castle*, *Last King of Africa* | Xcode, Lua |
 | PS3, Xbox 360, PC | *PlayAll* engine (contribution) | C++ |
 
-Next period: [Mando Productions (2010–2016) →](mando.md)
+[← Previous period: Education (2000–2005)](formation.md) · Next period: [Mando Productions (2010–2016) →](mando.md)
 
 ## References
 Public credits on MobyGames:

@@ -20,4 +20,4 @@ flowchart LR
 | 2010 – 2016 | Lead Dev | Unity and mobile games, *Babel Rising 3D* on PS3, Xbox 360 and Oculus Rift | [Mando Productions](en/mando.md) |
 | 2016 – 2019 | CTO | *Livejourney* data visualization platform, predictive AI | [Your Data Consulting](en/your-data.md) |
 | 2019 – 2026 | Lead Dev | *Teemew* 3D web platform: .NET, Azure, real-time, AI | [Manzalab](en/manzalab.md) |
-| 2002 – 2005 | Education | ENSIMAG (Image & AI), exchange year at the University of Waterloo | *coming soon* |
+| 2002 – 2005 | Education | ENSIMAG (Image & AI), exchange year at the University of Waterloo | [Education](en/formation.md) |
