@@ -1,6 +1,6 @@
-<img src="assets/photo.png" alt="Fabien Simon" width="140" align="right" />
-
 # Hi, I'm Fabien Simon 👋
+
+<img src="assets/photo.png" alt="Fabien Simon" width="140" align="right" />
 
 **Fullstack .NET / C# & AI Tech Lead** · Paris · available immediately
 
