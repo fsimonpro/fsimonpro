@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 698 426" width="698" height="426" role="img" aria-label="Teemew architecture">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 836 426" width="836" height="426" role="img" aria-label="Teemew architecture">
 <style>
   .box { fill: #f6f8fa; stroke: #d0d7de; stroke-width: 1.5; }
   .hub { fill: #ddf4ff; stroke: #0969da; stroke-width: 2; }
@@ -23,37 +23,37 @@
   }
 </style>
 <defs><marker id="arrow" viewBox="0 0 10 10" refX="1" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path class="head" d="M0,0 L10,5 L0,10 z" /></marker></defs>
-  <path class="link" d="M146.2,223.8 C164.2,223.8 164.2,223.8 182.2,223.8" marker-end="url(#arrow)" />
-  <path class="link" d="M310.2,223.8 C328.2,223.8 328.2,223.8 346.2,223.8" marker-end="url(#arrow)" />
-  <path class="link" d="M146.2,223.8 C164.2,223.8 164.2,375 182.2,375" marker-end="url(#arrow)" />
-  <rect class="lblbg" x="111.19999999999999" y="288.9" width="106" height="21" rx="4" />
-  <text text-anchor="middle"><tspan class="lbl" x="164.2" y="303.9">real-time voice</tspan></text>
-  <path class="link" d="M514.2,223.8 C532.2,223.8 532.2,51 550.2,51" marker-end="url(#arrow)" />
-  <rect class="lblbg" x="485.6" y="126.9" width="93.2" height="21" rx="4" />
-  <text text-anchor="middle"><tspan class="lbl" x="532.2" y="141.9">REST + events</tspan></text>
-  <path class="link" d="M514.2,223.8 C532.2,223.8 532.2,159 550.2,159" marker-end="url(#arrow)" />
-  <path class="link" d="M514.2,223.8 C532.2,223.8 532.2,267 550.2,267" marker-end="url(#arrow)" />
-  <path class="link" d="M514.2,223.8 C532.2,223.8 532.2,375 550.2,375" marker-end="url(#arrow)" />
-  <path class="link" d="M434.2,178.8 C434.2,83.80000000000001 76.1,83.80000000000001 76.1,170.8" marker-end="url(#arrow)" />
-  <rect class="lblbg" x="141.34999999999997" y="97.05000000000001" width="227.60000000000002" height="21" rx="4" />
-  <text text-anchor="middle"><tspan class="lbl" x="255.14999999999998" y="112.05000000000001">real-time stack: SignalR WebSocket</tspan></text>
+  <path class="link" d="M146.2,223.8 C187.2,223.8 187.2,223.8 228.2,223.8" marker-end="url(#arrow)" />
+  <path class="link" d="M356.2,223.8 C397.2,223.8 397.2,223.8 438.2,223.8" marker-end="url(#arrow)" />
+  <path class="link" d="M146.2,223.8 C187.2,223.8 187.2,375 228.2,375" marker-end="url(#arrow)" />
+  <rect class="lblbg" x="134.2" y="288.9" width="106" height="21" rx="4" />
+  <text text-anchor="middle"><tspan class="lbl" x="187.2" y="303.9">real-time voice</tspan></text>
+  <path class="link" d="M606.2,223.8 C647.2,223.8 647.2,51 688.2,51" marker-end="url(#arrow)" />
+  <rect class="lblbg" x="600.6" y="126.9" width="93.2" height="21" rx="4" />
+  <text text-anchor="middle"><tspan class="lbl" x="647.2" y="141.9">REST + events</tspan></text>
+  <path class="link" d="M606.2,223.8 C647.2,223.8 647.2,159 688.2,159" marker-end="url(#arrow)" />
+  <path class="link" d="M606.2,223.8 C647.2,223.8 647.2,267 688.2,267" marker-end="url(#arrow)" />
+  <path class="link" d="M606.2,223.8 C647.2,223.8 647.2,375 688.2,375" marker-end="url(#arrow)" />
+  <path class="link" d="M526.2,178.8 C526.2,83.80000000000001 76.1,83.80000000000001 76.1,170.8" marker-end="url(#arrow)" />
+  <rect class="lblbg" x="187.35000000000002" y="97.05000000000001" width="227.60000000000002" height="21" rx="4" />
+  <text text-anchor="middle"><tspan class="lbl" x="301.15000000000003" y="112.05000000000001">real-time stack: SignalR WebSocket</tspan></text>
   <rect class="hub" x="6" y="178.8" width="140.2" height="90" rx="24" />
   <text text-anchor="middle"><tspan class="name" x="76.1" y="209.8">Browser</tspan><tspan class="info" x="76.1" y="227.8">Unity WebGPU (3D)</tspan><tspan class="info" x="76.1" y="245.8">+ React web apps</tspan></text>
-  <rect class="box" x="190.2" y="178.8" width="120" height="90" rx="10" />
-  <text text-anchor="middle"><tspan class="name" x="250.2" y="218.8">Cloudflare</tspan><tspan class="info" x="250.2" y="236.8">front door</tspan></text>
-  <rect class="box" x="190.2" y="330" width="120" height="90" rx="10" />
-  <text text-anchor="middle"><tspan class="name" x="250.2" y="379">Agora</tspan></text>
-  <rect class="box" x="354.2" y="178.8" width="160" height="90" rx="10" />
-  <text text-anchor="middle"><tspan class="name" x="434.2" y="218.8">ASP.NET Core API</tspan><tspan class="info" x="434.2" y="236.8">Azure Container Apps</tspan></text>
-  <path class="box" d="M558.2,13 a66.8,7 0 0,1 133.6,0 v76 a66.8,7 0 0,1 -133.6,0 z" />
-  <path class="box" d="M558.2,13 a66.8,7 0 0,0 133.6,0" />
-  <text text-anchor="middle"><tspan class="name" x="625" y="59">Redis</tspan></text>
-  <path class="box" d="M558.2,121 a66.8,7 0 0,1 133.6,0 v76 a66.8,7 0 0,1 -133.6,0 z" />
-  <path class="box" d="M558.2,121 a66.8,7 0 0,0 133.6,0" />
-  <text text-anchor="middle"><tspan class="name" x="625" y="167">MySQL</tspan></text>
-  <path class="box" d="M558.2,229 a66.8,7 0 0,1 133.6,0 v76 a66.8,7 0 0,1 -133.6,0 z" />
-  <path class="box" d="M558.2,229 a66.8,7 0 0,0 133.6,0" />
-  <text text-anchor="middle"><tspan class="name" x="625" y="266">Blob Storage</tspan><tspan class="info" x="625" y="284">media</tspan></text>
-  <rect class="box" x="558.2" y="330" width="133.6" height="90" rx="10" />
-  <text text-anchor="middle"><tspan class="name" x="625" y="370">AI bots</tspan><tspan class="info" x="625" y="388">RAG (OpenAI API)</tspan></text>
+  <rect class="box" x="236.2" y="178.8" width="120" height="90" rx="10" />
+  <text text-anchor="middle"><tspan class="name" x="296.2" y="218.8">Cloudflare</tspan><tspan class="info" x="296.2" y="236.8">front door</tspan></text>
+  <rect class="box" x="236.2" y="330" width="120" height="90" rx="10" />
+  <text text-anchor="middle"><tspan class="name" x="296.2" y="379">Agora</tspan></text>
+  <rect class="box" x="446.2" y="178.8" width="160" height="90" rx="10" />
+  <text text-anchor="middle"><tspan class="name" x="526.2" y="218.8">ASP.NET Core API</tspan><tspan class="info" x="526.2" y="236.8">Azure Container Apps</tspan></text>
+  <path class="box" d="M696.2,13 a66.8,7 0 0,1 133.6,0 v76 a66.8,7 0 0,1 -133.6,0 z" />
+  <path class="box" d="M696.2,13 a66.8,7 0 0,0 133.6,0" />
+  <text text-anchor="middle"><tspan class="name" x="763" y="59">Redis</tspan></text>
+  <path class="box" d="M696.2,121 a66.8,7 0 0,1 133.6,0 v76 a66.8,7 0 0,1 -133.6,0 z" />
+  <path class="box" d="M696.2,121 a66.8,7 0 0,0 133.6,0" />
+  <text text-anchor="middle"><tspan class="name" x="763" y="167">MySQL</tspan></text>
+  <path class="box" d="M696.2,229 a66.8,7 0 0,1 133.6,0 v76 a66.8,7 0 0,1 -133.6,0 z" />
+  <path class="box" d="M696.2,229 a66.8,7 0 0,0 133.6,0" />
+  <text text-anchor="middle"><tspan class="name" x="763" y="266">Blob Storage</tspan><tspan class="info" x="763" y="284">media</tspan></text>
+  <rect class="box" x="696.2" y="330" width="133.6" height="90" rx="10" />
+  <text text-anchor="middle"><tspan class="name" x="763" y="370">AI bots</tspan><tspan class="info" x="763" y="388">RAG (OpenAI API)</tspan></text>
 </svg>

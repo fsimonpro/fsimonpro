@@ -2,7 +2,7 @@
 
 [← Portfolio home](../en.md) · [Version française](../fr/formation.md)
 
-<img src="../../assets/formation/logos.svg" alt="Grenoble INP - Ensimag · University of Waterloo" height="78" />
+<img src="../../assets/formation/ensimag-card.svg" alt="Grenoble INP - Ensimag" height="78" /> &nbsp; &nbsp; &nbsp; <img src="../../assets/formation/waterloo-card.svg" alt="University of Waterloo" height="78" />
 
 **Engineering degree from ENSIMAG** (Grenoble INP, France), graduated in 2005, majoring in **Image Processing and Artificial Intelligence**, with a final year on exchange at the **University of Waterloo** (Ontario, Canada).
 
