@@ -1,6 +1,6 @@
 # Portfolio détaillé – Fabien Simon
 
-🇬🇧 [English version](en.md) · [← Retour au profil](../README.md)
+[English version](en.md) · [← Retour au profil](../README.md)
 
 Tech Lead Fullstack .NET / C# & IA, plus de 20 ans de développement logiciel, dont 11 ans dans le jeu vidéo (2005–2016).
 
@@ -12,7 +12,7 @@ Tech Lead Fullstack .NET / C# & IA, plus de 20 ans de développement logiciel, d
 
 ## White Birds Productions (2005–2010)
 
-<img src="https://upload.wikimedia.org/wikipedia/fr/8/89/White_Birds_Production_Logo.png" alt="White Birds Productions" height="80" />
+<img src="../assets/whitebirds/logo.png" alt="White Birds Productions" height="80" />
 
 Studio de jeux vidéo (notamment jeux d'aventure et point & click). J'y suis entré en stage de fin d'études, puis j'y suis resté 5 ans : développeur junior, puis Lead Dev à partir de 2007.
 
@@ -44,7 +44,7 @@ flowchart LR
 
 #### *Nikopol* (PC), prix du meilleur graphisme aux Milthon 2008
 
-<img src="https://upload.wikimedia.org/wikipedia/en/e/e6/Nikopol_Secrets_of_the_Immortals_cover_art.jpg" alt="Nikopol" width="130" align="right" />
+<img src="../assets/whitebirds/nikopol.jpg" alt="Nikopol" width="130" align="right" />
 
 - Outil d'export des « warps » pour la vue à 360° (**C++ / MFC**)
 - Programmation du gameplay en **Lua**
@@ -90,7 +90,7 @@ flowchart LR
 
 #### Stage de fin d'études (mai – septembre 2005) : *Paradise*
 
-<img src="https://upload.wikimedia.org/wikipedia/en/7/7c/Paradise_PC.jpg" alt="Paradise" width="130" align="right" />
+<img src="../assets/whitebirds/paradise.jpg" alt="Paradise" width="130" align="right" />
 
 - Programmation du gameplay en **Lua** sur le moteur 2D/3D maison **Opalium** (programmation objet et événementielle)
 - Mini-jeu de pêche (inertie, mouvements aléatoires), caméras qui suivent un personnage
