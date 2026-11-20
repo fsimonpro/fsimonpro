@@ -29,7 +29,7 @@
 | ⚡ | Environnement 3D chargé dans le navigateur en **moins de 10 secondes** |
 | 🏢 | Une **vingtaine de clients principaux** : La Poste, SNCF, SFR, Sopra Steria, France Travail, April… |
 | 🎟️ | *Village Numérique* de Pôle Emploi : **15 000 inscrits** ; onboarding Sopra Steria : **500 nouveaux collaborateurs par mois** |
-| 🎤 | **VIRTUALITY** (décembre 2020) : événement que j'ai organisé, environ **1 500 participants** |
+| <img src="../../assets/manzalab/clients/virtuality.svg" alt="VIRTUALITY" height="48" /> | **VIRTUALITY** (décembre 2020) : événement que j'ai organisé, environ **1 500 participants** |
 | 🌍 | Plateforme disponible en **9 langues**, sur PC / Mac (web) et en VR |
 
 ### Teemew en images
@@ -94,8 +94,8 @@
 | <img src="../../assets/manzalab/clients/studio-tf1.svg" alt="Studio TF1" height="48" /> | **Newen Studios** (aujourd'hui TF1 Studio) : Zeppelin virtuel pour vendre films et séries pendant les festivals |
 | <img src="../../assets/manzalab/clients/airbus.svg" alt="Airbus" height="48" /> | **Bureaux virtuels** : Airbus, TF1 Studio |
 | <img src="../../assets/manzalab/clients/credit-agricole.svg" alt="Crédit Agricole" height="48" /> | **Crédit Agricole** : application VR sur casque HTC Vive Focus |
-| 🎨 | **Art** : Métamusée, Xclusiv World (galeries virtuelles) |
-| 🎤 | **VIRTUALITY** (décembre 2020) : pendant le covid, j'ai organisé cet événement technique sur notre plateforme, à la place de l'événement physique au Carreau du Temple |
+| <img src="../../assets/manzalab/clients/metamusee.svg" alt="Métamusée" height="48" /> | **Art** : Métamusée, Xclusiv World (galeries virtuelles) |
+| <img src="../../assets/manzalab/clients/virtuality.svg" alt="VIRTUALITY" height="48" /> | **VIRTUALITY** (décembre 2020) : pendant le covid, j'ai organisé cet événement technique sur notre plateforme, à la place de l'événement physique au Carreau du Temple |
 
 #### Autres produits
 - **Teemew Mobile** : reprise en main d'une solution de formation sur mobile (Android, iOS), front-end Unity, back-end PHP / MySQL

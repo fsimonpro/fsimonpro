@@ -29,7 +29,7 @@
 | ⚡ | 3D environment loaded in the browser in **under 10 seconds** |
 | 🏢 | Around **20 main clients**: La Poste, SNCF, SFR, Sopra Steria, France Travail, April… |
 | 🎟️ | Pôle Emploi's *Village Numérique*: **15,000 registrations**; Sopra Steria onboarding: **500 new employees per month** |
-| 🎤 | **VIRTUALITY** (December 2020): an event I organized, about **1,500 attendees** |
+| <img src="../../assets/manzalab/clients/virtuality.svg" alt="VIRTUALITY" height="48" /> | **VIRTUALITY** (December 2020): an event I organized, about **1,500 attendees** |
 | 🌍 | Platform available in **9 languages**, on PC / Mac (web) and in VR |
 
 ### Teemew in pictures
@@ -94,8 +94,8 @@
 | <img src="../../assets/manzalab/clients/studio-tf1.svg" alt="Studio TF1" height="48" /> | **Newen Studios** (now TF1 Studio): a virtual Zeppelin to sell films and series during festivals |
 | <img src="../../assets/manzalab/clients/airbus.svg" alt="Airbus" height="48" /> | **Virtual offices**: Airbus, TF1 Studio |
 | <img src="../../assets/manzalab/clients/credit-agricole.svg" alt="Crédit Agricole" height="48" /> | **Crédit Agricole**: VR application on HTC Vive Focus headsets |
-| 🎨 | **Art**: Métamusée, Xclusiv World (virtual galleries) |
-| 🎤 | **VIRTUALITY** (December 2020): during covid, I organized this tech event on our platform, replacing the physical event at the Carreau du Temple in Paris |
+| <img src="../../assets/manzalab/clients/metamusee.svg" alt="Métamusée" height="48" /> | **Art**: Métamusée, Xclusiv World (virtual galleries) |
+| <img src="../../assets/manzalab/clients/virtuality.svg" alt="VIRTUALITY" height="48" /> | **VIRTUALITY** (December 2020): during covid, I organized this tech event on our platform, replacing the physical event at the Carreau du Temple in Paris |
 
 #### Other products
 - **Teemew Mobile**: took over a mobile training solution (Android, iOS), Unity front end, PHP / MySQL back end
